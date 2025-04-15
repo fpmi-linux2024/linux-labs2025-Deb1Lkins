@@ -8,3 +8,7 @@
 ## Лабораторная работа № 2
 
 [Сылка на отчет](https://disk.yandex.ru/d/CpHVaRoUb-lBdw)
+
+##Лабораторная работа № 3
+
+[Сылка на отчет](https://disk.yandex.ru/d/ZWniOygmU6A3ww)
