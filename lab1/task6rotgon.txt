@@ -1,0 +1,29 @@
+Script started on 2025-02-19 18:11:50+03:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+[?2004h]0;matvet@victus-16-d0xxx: ~[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~[00m$ exitvim os_check.cpp
+[?2004l[?1049h[22;0;0t[>4;2m[?1h=[?2004h[?1004h[1;24r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[24;1H"os_check.cpp" 14L, 154B[2;1H▽[6n[2;1H  [3;1HPzz\[0%m[6n[3;1H           [1;1H[>c]10;?]11;?[1;1H[35m#include [m[31m<stdio.h>[m[2;1H[K[3;1H[32mint[m main()[3;11H[K[4;1H{
+[35m#ifdef _WIN32[m[6;9Hprintf([31m"WINDOWS[m[35m\n[m[31m"[m);
+[35m#elif APPLE[m[8;9Hprintf([31m"MACOS[m[35m\n[m[31m"[m);
+[35m#elif linux[m[11;9Hprintf([31m"LINUX[m[35m\n[m[31m"[m);
+[35m#endif[m[13;9H[38;5;130mreturn[m [31m0[m;
+}
+[94m~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [m[24;63H5,13[9CВ[24;77Hе[24;78Hс[24;79Hь[5;13H[?25hP+q436f\P+q6b75\P+q6b64\P+q6b72\P+q6b6c\P+q2332\P+q2334\P+q2569\P+q2a37\P+q6b31\P$q q\[?12$p[?25l[24;53H:[5;13H[24;54H3[5;13H[24;55H0[5;13H[24;56H3[5;13H[24;57H0[5;13H[24;58H/[5;13H[24;59H0[5;13H[24;60Ha[5;13H[24;61H0[5;13H[24;62Ha[5;13H[24;53H          [5;13H[27m[23m[29m[m[H[2J[1;1H[38;5;81m#include [m[95m<stdio.h>[m
+
+[38;5;121mint[m main()
+{
+[38;5;81m#ifdef _WIN32[m[6;9Hprintf([95m"WINDOWS[m[38;5;224m\n[m[95m"[m);
+[38;5;81m#elif APPLE[m[8;9Hprintf([95m"MACOS[m[38;5;224m\n[m[95m"[m);
+[38;5;81m#elif linux[m[11;9Hprintf([95m"LINUX[m[38;5;224m\n[m[95m"[m);
+[38;5;81m#endif[m[13;9H[93mreturn[m [95m0[m;
+}
+[94m~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [m[24;63H5,13[9CВ[24;77Hе[24;78Hс[24;79Hь[24;1H"os_check.cpp" 14L, 154B[5;13H[?25h[?25l[24;53H:[5;13H[24;1H[K[24;1H:[?25hwq[?25l[?2004l[>4;m"os_check.cpp" 14L, 154B з[24;27Hа[24;28Hп[24;29Hи[24;30Hс[24;31Hа[24;32Hн[24;33Hо[24;1H[23;2t[23;1t
+[?1004l[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t[?2004h]0;matvet@victus-16-d0xxx: ~[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~[00m$ vim os_check.cppexit[Kvim os_check.cppg++ os_check.cpp -o os_check
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~[00m$ .\[K/os_check '
+[?2004l[?2004h> 
+[?2004l[?2004h> 
+[?2004l[?2004h> ^C[?2004l[?2004h[?2004l
+[?2004h]0;matvet@victus-16-d0xxx: ~[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~[00m$ ./os_check 
+[?2004lLINUX
+[?2004h]0;matvet@victus-16-d0xxx: ~[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~[00m$ exit
+[?2004lexit
+
+Script done on 2025-02-19 18:12:54+03:00 [COMMAND_EXIT_CODE="0"]
