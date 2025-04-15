@@ -1,0 +1,29 @@
+Script started on 2025-04-07 22:46:43+03:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+[?2004h]0;matvet@victus-16-d0xxx: ~[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~[00m$ ьл[K[Kmkdir workdir
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~[00m$ rmdir workdir
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~[00m$ ls
+[?2004l [0m[01;34malbiononline[0m   [01;34mMail[0m        [01;34msnap[0m             [01;34mВидео[0m         [01;34mОбщедоступные[0m[K
+ code.txt       pwd         task1rotgon      [01;34mДокументы[0m    [01;34m'Рабочий стол'[0m[K
+ dec.txt        [01;34mradare2[0m     task2rotgon      [01;34mЗагрузки[0m      [01;34mШаблоны[0m
+ [01;34mlab[0m            README.md   timelog1rotgon   [01;34mИзображения[0m
+ [01;34mlabrabota4[0m     [01;34mretdec[0m      timelog2rotgon   [01;34mМузыка[0m
+[?2004h]0;matvet@victus-16-d0xxx: ~[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~[00m$ cd labrabota4/
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/labrabota4[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/labrabota4[00m$ mkdir workdir
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/labrabota4[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/labrabota4[00m$ ls -lt
+[?2004lитого 8
+drwxrwxr-x 2 matvet matvet 4096 апр  7 22:48 [0m[01;34mworkdir[0m
+-rw-rw-r-- 1 matvet matvet   65 апр  7 22:37 request.txt
+[?2004h]0;matvet@victus-16-d0xxx: ~/labrabota4[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/labrabota4[00m$ ls -a
+[?2004l[0m[01;34m.[0m  [01;34m..[0m  request.txt  [01;34mworkdir[0m
+[?2004h]0;matvet@victus-16-d0xxx: ~/labrabota4[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/labrabota4[00m$ ls -i
+[?2004l6067195 request.txt  6067199 [0m[01;34mworkdir[0m
+[?2004h]0;matvet@victus-16-d0xxx: ~/labrabota4[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/labrabota4[00m$ ls -all
+[?2004lитого 16
+drwxrwxr-x  3 matvet matvet 4096 апр  7 22:48 [0m[01;34m.[0m
+drwxr-x--- 28 matvet matvet 4096 апр  7 22:47 [01;34m..[0m
+-rw-rw-r--  1 matvet matvet   65 апр  7 22:37 request.txt
+drwxrwxr-x  2 matvet matvet 4096 апр  7 22:48 [01;34mworkdir[0m
+[?2004h]0;matvet@victus-16-d0xxx: ~/labrabota4[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/labrabota4[00m$ exit
+[?2004lexit
+
+Script done on 2025-04-07 22:53:17+03:00 [COMMAND_EXIT_CODE="0"]

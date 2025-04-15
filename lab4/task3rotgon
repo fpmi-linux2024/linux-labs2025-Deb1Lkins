@@ -1,0 +1,17 @@
+Script started on 2025-04-07 23:01:30+03:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+[?2004h]0;matvet@victus-16-d0xxx: ~[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~[00m$ exitls -all[2Pialtmkdir workdircd labrabota4/ls[Kcd labrabota4/
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/labrabota4[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/labrabota4[00m$ сз[K[Kcp request.txt workdir/
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/labrabota4[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/labrabota4[00m$ cp request.txt workdir/.request
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/labrabota4[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/labrabota4[00m$ ьм[K[K mv[K[K[Kmv request.txt  request.txt [K[K[K[Kbak
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/labrabota4[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/labrabota4[00m$ mv request.txt  request.bak[1Prequest.bak[1Prequest.bak[1Prequest.bak[1Prequest.bak[1Prequest.bak[1Prequest.bak[1Prequest.bak[1Prequest.bak[1Prequest.bak[1Prequest.bak[1Prequest.bak[1Prequest.bak[1Pequest.bak[C[C[C[C[C[C[C[C[C[C[C workdir/
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/labrabota4[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/labrabota4[00m$ ls -all workdir/
+[?2004lитого 20
+drwxrwxr-x 2 matvet matvet 4096 апр  7 23:05 [0m[01;34m.[0m
+drwxrwxr-x 3 matvet matvet 4096 апр  7 23:05 [01;34m..[0m
+-rw-rw-r-- 1 matvet matvet   65 апр  7 23:02 .request
+-rw-rw-r-- 1 matvet matvet   65 апр  7 22:37 request.bak
+-rw-rw-r-- 1 matvet matvet   65 апр  7 23:01 request.txt
+[?2004h]0;matvet@victus-16-d0xxx: ~/labrabota4[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/labrabota4[00m$ exit
+[?2004lexit
+
+Script done on 2025-04-07 23:05:54+03:00 [COMMAND_EXIT_CODE="0"]

@@ -1,0 +1,135 @@
+Сценарий запущен на 2025-04-08 22:49:01+03:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="76" LINES="21"]
+[?2004h]0;administrator@astra-41373: ~[01;32madministrator@astra-41373[00m:[01;34m~[00m$ mab[Knuser[K[K[K[K esr[K[K[Kusercaps
+[?2004l[?1049h[22;0;0t[?1h=USERCAPS(1)                   Утилиты PARSEC                   USERCAPS(1)[m
+[m
+[1mНАЗВАНИЕ[0m[m
+       usercaps -- просмотр и установка привилегий пользователей.[m
+[m
+[1mКРАТКАЯ[0m [1mИНФОРМАЦИЯ[0m[m
+       usercaps  [[1m-d,[0m  [1m--delete[0m]  [[1m-z,[0m  [1m--zero[0m]  [[1m-f,[0m [1m--full[0m] [[1m-l,[0m [1m--linux[0m[m
+       [4m<caps>[24m[1m][0m [1m[-m,[0m [1m--parsec[0m [4m<caps>[24m[1m][0m [1m[-L,[0m  [1m--Linux][0m  [1m[-M,[0m  [1m--PARSEC][0m  [1m[-n,[0m[m
+       [1m--numeric][0m [1m[-h,[0m [1m--help][0m [1m[-v,[0m [1m--version][0m [4mпользователь[24m[m
+[m
+[1mОПИСАНИЕ[0m[m
+       usercaps  -  позволяет  просматривать  и  устанавливать  привилегии[m
+       пользователей.  Использование: usercaps [-[l строка модифицирования[m
+       linux-привилегий]     [-[m     строка     модифицирования    PARSEC[m
+       привилегий][dzLMnfhv]] пользователь[m
+[m
+       Строка модифицирования привилегий состоит из слов  разделенных  ","[m
+       или  ":",  каждое  слово  может  быть  строкой в верхнем или нижнем[m
+       регистре или числом, перед которым стоит знак "+" или "-".   Список[m
+       возможных привилегий с сокращенными именами и числами можно увидеть[m
+[7m Manual page usercaps(1) line 1 (press h for help or q to quit)[27m[K[K[?1l>[?1049l[23;0;0t[?2004h]0;administrator@astra-41373: ~[01;32madministrator@astra-41373[00m:[01;34m~[00m$ man setcap
+[?2004l[?1049h[22;0;0t[?1h=SETCAP(8)                 System Manager's Manual                SETCAP(8)[m
+[m
+[1mNAME[0m[m
+       setcap - set file capabilities[m
+[m
+[1mSYNOPSIS[0m[m
+       [1msetcap[0m  [-q] [-n <rootuid>] [-v] {[4mcapabilities|-|-r}[24m [4mfilename[24m [ ...[m
+       [4mcapabilitiesN[24m [4mfileN[24m ][m
+[m
+[1mDESCRIPTION[0m[m
+       In the absence of the [1m-v[0m (verify) option [1msetcap[0m sets the  capabili‐[m
+       ties of each specified [4mfilename[24m to the [4mcapabilities[24m specified.  The[m
+       optional [1m-n[0m [1m<rootuid>[0m argument can be used to set the file capabil‐[m
+       ity  for use only in a user namespace with this root user ID owner.[m
+       The [1m-v[0m option is used to verify that the specified capabilities are[m
+       currently  associated with the file. If -v and -n are supplied, the[m
+       [1m-n[0m [1m<rootuid>[0m argument is also verified.[m
+[m
+       The  [4mcapabilities[24m  are  specified  in   the   form   described   in[m
+       [1mcap_from_text[0m(3).[m
+[7m Manual page setcap(8) line 1 (press h for help or q to quit)[27m[K[K[?1l>[?1049l[23;0;0t[?2004h]0;administrator@astra-41373: ~[01;32madministrator@astra-41373[00m:[01;34m~[00m$ man getcap
+[?2004l[?1049h[22;0;0t[?1h=GETCAP(8)                 System Manager's Manual                GETCAP(8)[m
+[m
+[1mNAME[0m[m
+       getcap - examine file capabilities[m
+[m
+[1mSYNOPSIS[0m[m
+       [1mgetcap[0m [-v] [-n] [-r] [-h] [4mfilename[24m [ ... ][m
+[m
+[1mDESCRIPTION[0m[m
+       [1mgetcap[0m displays the name and capabilities of each specified file.[m
+[m
+[1mOPTIONS[0m[m
+       [1m-h[0m  prints quick usage.[m
+[m
+       [1m-n[0m  prints  any non-zero user namespace root user ID value found to[m
+           be associated with a file's capabilities.[m
+[m
+       [1m-r[0m  enables recursive search.[m
+[m
+       [1m-v[0m  display all searched entries, even if the have no file-capabil‐[m
+[7m Manual page getcap(8) line 1 (press h for help or q to quit)[27m[K[K[?1l>[?1049l[23;0;0t[?2004h]0;administrator@astra-41373: ~[01;32madministrator@astra-41373[00m:[01;34m~[00m$ sudo useradd student
+[?2004l[sudo] пароль для administrator: 
+[?2004h]0;administrator@astra-41373: ~[01;32madministrator@astra-41373[00m:[01;34m~[00m$ su student
+[?2004lПароль: 
+Password blocked
+
+su: Сбой при проверке подлинности
+[?2004h]0;administrator@astra-41373: ~[01;32madministrator@astra-41373[00m:[01;34m~[00m$ 
+[?2004l[?2004h]0;administrator@astra-41373: ~[01;32madministrator@astra-41373[00m:[01;34m~[00m$ su student
+[?2004lПароль: 
+Password blocked
+su: Сбой при проверке подлинности
+[?2004h]0;administrator@astra-41373: ~[01;32madministrator@astra-41373[00m:[01;34m~[00m$ su student
+[?2004lПароль: 
+Password blocked
+su: Сбой при проверке подлинности
+[?2004h]0;administrator@astra-41373: ~[01;32madministrator@astra-41373[00m:[01;34m~[00m$ sn[K[Ksu student
+[?2004lПароль: 
+[?2004hsh-5.2$ traceroute yandex.ru
+[?2004ltraceroute to yandex.ru (77.88.44.55), 30 hops max, 60 byte packets
+ 1  10.0.2.2 (10.0.2.2)  0.547 ms  0.191 ms  0.194 ms
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+[?2004hsh-5.2$ sudo su
+[?2004l[sudo] пароль для student: 
+student is not in the sudoers file.
+This incident has been reported to the administrator.
+[?2004hsh-5.2$ exit
+[?2004lexit
+[?2004h]0;administrator@astra-41373: ~[01;32madministrator@astra-41373[00m:[01;34m~[00m$ sudo so
+[?2004lsudo: so: command not found
+[?2004h]0;administrator@astra-41373: ~[01;32madministrator@astra-41373[00m:[01;34m~[00m$ sudo so[Ku
+[?2004l[?2004hroot@astra-41373:/home/administrator# snaper555[K[K[K[K[K[K[K[K[Kusercaps student
+[?2004lusercaps: привилегии не установлены для пользователя student
+[?2004hroot@astra-41373:/home/administrator# usercaps -l 1 student
+[?2004l-------------------
+linux привилегии пользователя 'student':
+ 0  0x00000001  cap_chown
+[?2004hroot@astra-41373:/home/administrator# exit
+[?2004lexit
+[?2004h]0;administrator@astra-41373: ~[01;32madministrator@astra-41373[00m:[01;34m~[00m$ exit
+[?2004lexit
+
+Сценарий выполнен на 2025-04-08 23:01:26+03:00 [COMMAND_EXIT_CODE="0"]
