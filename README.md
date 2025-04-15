@@ -5,22 +5,3 @@
 
 [Сылка на отчет](https://disk.yandex.ru/d/mPDLau318OKxVA)
 
-## Лабораторная работа № 2
-
-[Сылка на отчет](https://disk.yandex.ru/d/CpHVaRoUb-lBdw)
-
-+ [Lab2-intro](https://github.com/Deb1Lkins/lab2-intro)
-
-+ [Lab2-markdown-syntax](https://github.com/Deb1Lkins/lab2--markdown-syntax)
-
-## Лабораторная работа № 3
-
-[Сылка на отчет](https://disk.yandex.ru/d/ZWniOygmU6A3ww)
-
-## Лабораторная работа № 4
-
-[Сылка на отчет](https://disk.yandex.ru/d/dOP8AQ7v651wZA)
-
-## Лабораторная работа № 5
-
-[Сылка на отчет](https://disk.yandex.ru/d/0pcHL0K74QCPjw)
