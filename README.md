@@ -5,3 +5,6 @@
 
 [Сылка на отчет](https://disk.yandex.ru/d/mPDLau318OKxVA)
 
+## Лабораторная работа № 2
+
+[Сылка на отчет](https://disk.yandex.ru/d/CpHVaRoUb-lBdw)
