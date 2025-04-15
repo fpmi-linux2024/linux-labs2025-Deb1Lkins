@@ -1,0 +1,553 @@
+Script started on 2025-04-09 18:01:07+03:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+[?2004h]0;matvet@victus-16-d0xxx: ~[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~[00m$ script -t 2> timelog1rotgon -a task1rotgon[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[Kcd ..[1Pexit[K[K[K[Kmkdir lab50[K-tasks
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~[00m$ cd lab5-tasks/
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ cd lab5-tasks/mkdir lab5-tasksscript -t 2> timelog1rotgon -a task1rotgon[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[Kcd ..[1Pezit[1Pzitunzip -l arzip.zip [1@1[C[C[C[C[Czip -r9 arzip2 docs/q[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[1P docs/mv request.txt letter.txt order.txt docskdir docs[Kzip arzip order.txt [13@request.txt lett[C[C[C[C[C[C[C[10Pls /var/log > order.txtusr/bin > letter.txtk[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3Pls /etc > request.txt[7Pcd lab5-tasks/ls /etc > request.txt
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ ls /etc > request.txt[7Pcd lab5-tasks/mkdir lab5-tasksscript -t 2> timelog1rotgon -a task1rotgon[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[Kcd ..[1Pezit[1Pzitunzip -l arzip.zip [1@1[C[C[C[C[Czip -r9 arzip2 docs/q[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[1P docs/mv request.txt letter.txt order.txt docskdir docs[Kzip arzip order.txt [13@request.txt lett[C[C[C[C[C[C[C[10Pls /var/log > order.txtusr/bin > letter.txt
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ ls /usr/bin > letter.txt[3Petc > request.txt[7Pcd lab5-tasks/mkdir lab5-tasksscript -t 2> timelog1rotgon -a task1rotgon[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[Kcd ..[1Pezit[1Pzitunzip -l arzip.zip [1@1[C[C[C[C[Czip -r9 arzip2 docs/q[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[1P docs/mv request.txt letter.txt order.txt docskdir docs[Kzip arzip order.txt [13@request.txt lett[C[C[C[C[C[C[C[10Pls /var/log > order.txtusr/bin > letter.txt[1Pvar/log > order.txt
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ zip arxip1 request.txt letter.txt [1P[1@z[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K order.txt [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kt
+[?2004l  adding: request.txt (deflated 51%)
+  adding: letter.txt (deflated 59%)
+  adding: order.txt (deflated 56%)
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ zip arzip1 ordr[Ker.txt 
+[?2004lupdating: order.txt (deflated 56%)
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ mkdir docs
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ mv request.txt letter.txt order.txt docs
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ zip -r arzip2 docs/
+[?2004l  adding: docs/ (stored 0%)
+  adding: docs/request.txt (deflated 51%)
+  adding: docs/order.txt (deflated 56%)
+  adding: docs/letter.txt (deflated 59%)
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ zip -r arzip2 docs/[C[1@q
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ zip -rq arzip2 docs/[1P[1@9
+[?2004lupdating: docs/ (stored 0%)
+updating: docs/request.txt (deflated 51%)
+updating: docs/order.txt (deflated 56%)
+updating: docs/letter.txt (deflated 59%)
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ unzip -l arzip1.zip
+[?2004lArchive:  arzip1.zip
+  Length      Date    Time    Name
+---------  ---------- -----   ----
+     2352  2025-04-09 18:01   request.txt
+    18483  2025-04-09 18:01   letter.txt
+      584  2025-04-09 18:02   order.txt
+---------                     -------
+    21419                     3 files
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ unzip -l arzip1.zip[1P.zip2.zip
+[?2004lArchive:  arzip2.zip
+  Length      Date    Time    Name
+---------  ---------- -----   ----
+        0  2025-04-09 18:03   docs/
+     2352  2025-04-09 18:01   docs/request.txt
+      584  2025-04-09 18:02   docs/order.txt
+    18483  2025-04-09 18:01   docs/letter.txt
+---------                     -------
+    21419                     4 files
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ unzip -t arzip2.zip 
+[?2004lArchive:  arzip2.zip
+    testing: docs/                    OK
+    testing: docs/request.txt         OK
+    testing: docs/order.txt           OK
+    testing: docs/letter.txt          OK
+No errors detected in compressed data of arzip2.zip.
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ head -c 32,[KMB[K /dev/urandom > sample.exe
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ zip arzip3 sample.exe
+[?2004l  adding: sample.exe (deflated 0%)
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ zip -s 64m arzip4 sample.exe
+[?2004l  adding: sample.exe (deflated 0%)
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ mkdir Binary1
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ unzip arzu[Kip3.zip -d Binary1/
+[?2004lArchive:  arzip3.zip
+  inflating: Binary1/sample.exe      
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ i[Kunzip arzip4,[K.zip -d Binary1/[1P/2/[C
+[?2004lArchive:  arzip4.zip
+  inflating: Binary2/sample.exe      
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ rm -rf docs/
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ unzip arzip1.zip
+[?2004lArchive:  arzip1.zip
+  inflating: request.txt             
+  inflating: letter.txt              
+  inflating: order.txt               
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ unzip arzip1.zip[1P.zip2.zip
+[?2004lArchive:  arzip2.zip
+   creating: docs/
+  inflating: docs/request.txt        
+  inflating: docs/order.txt          
+  inflating: docs/letter.txt         
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ ls -l
+[?2004lитого 98384
+-rw-rw-r-- 1 matvet matvet     9369 апр  9 18:03 [0m[01;31marzip1.zip[0m
+-rw-rw-r-- 1 matvet matvet     9537 апр  9 18:04 [01;31marzip2.zip[0m
+-rw-rw-r-- 1 matvet matvet 33559722 апр  9 18:06 [01;31marzip3.zip[0m
+-rw-rw-r-- 1 matvet matvet 33559726 апр  9 18:07 [01;31marzip4.zip[0m
+drwxrwxr-x 2 matvet matvet     4096 апр  9 18:07 [01;34mBinary1[0m
+drwxrwxr-x 2 matvet matvet     4096 апр  9 18:08 [01;34mBinary2[0m
+drwxrwxr-x 2 matvet matvet     4096 апр  9 18:03 [01;34mdocs[0m
+-rw-rw-r-- 1 matvet matvet    18483 апр  9 18:01 letter.txt
+-rw-rw-r-- 1 matvet matvet      584 апр  9 18:02 order.txt
+-rw-rw-r-- 1 matvet matvet     2352 апр  9 18:01 request.txt
+-rw-rw-r-- 1 matvet matvet 33554432 апр  9 18:06 sample.exe
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ ls -l Binary1/
+[?2004lитого 32768
+-rw-rw-r-- 1 matvet matvet 33554432 апр  9 18:06 sample.exe
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ ls -l Binary2/sample.exe 
+[?2004l-rw-rw-r-- 1 matvet matvet 33554432 апр  9 18:06 Binary2/sample.exe
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ LS -[K[K[K[Kls -l docs/
+[?2004lитого 28
+-rw-rw-r-- 1 matvet matvet 18483 апр  9 18:01 letter.txt
+-rw-rw-r-- 1 matvet matvet   584 апр  9 18:02 order.txt
+-rw-rw-r-- 1 matvet matvet  2352 апр  9 18:01 request.txt
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ [K]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ [K]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ [K]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ [K]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ [K]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ gzip request.txt 
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ gzip -c order.txt  > order.txt [K.gz
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ gunzip -t request.txt.gz 
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ gzip -l[Kk letter.txt 
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ gzip -l letter.txt.gz 
+[?2004l         compressed        uncompressed  ratio uncompressed_name
+               7520               18483  59.5% letter.txt
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ mkdir dzsamples
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ cp *.gz gzsamples/[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kmkdir dzsamples[1Pzsamplesgzsamples[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Krmdir dzsamples/
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ rmdir dzsamples/[1Pmkdir dzsamples[1Pzsamplesgzsamples
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ cp *.gz gzsamples/
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ cd gzsamples/
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks/gzsamples[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/gzsamples[00m$ gunzip request.txt.gz 
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks/gzsamples[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/gzsamples[00m$ gunzip -c order.txt.gz  > r[Kored[K[Kder.t xt
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks/gzsamples[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/gzsamples[00m$ gunzip -k letter.txt.gz 
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks/gzsamples[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/gzsamples[00m$ cd ..
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ ls -l
+[?2004lитого 98400
+-rw-rw-r-- 1 matvet matvet     9369 апр  9 18:03 [0m[01;31marzip1.zip[0m
+-rw-rw-r-- 1 matvet matvet     9537 апр  9 18:04 [01;31marzip2.zip[0m
+-rw-rw-r-- 1 matvet matvet 33559722 апр  9 18:06 [01;31marzip3.zip[0m
+-rw-rw-r-- 1 matvet matvet 33559726 апр  9 18:07 [01;31marzip4.zip[0m
+drwxrwxr-x 2 matvet matvet     4096 апр  9 18:07 [01;34mBinary1[0m
+drwxrwxr-x 2 matvet matvet     4096 апр  9 18:08 [01;34mBinary2[0m
+drwxrwxr-x 2 matvet matvet     4096 апр  9 18:03 [01;34mdocs[0m
+drwxrwxr-x 2 matvet matvet     4096 апр  9 18:14 [01;34mgzsamples[0m
+-rw-rw-r-- 1 matvet matvet    18483 апр  9 18:01 letter.txt
+-rw-rw-r-- 1 matvet matvet     7520 апр  9 18:01 [01;31mletter.txt.gz[0m
+-rw-rw-r-- 1 matvet matvet      584 апр  9 18:02 order.txt
+-rw-rw-r-- 1 matvet matvet      286 апр  9 18:11 [01;31morder.txt.gz[0m
+-rw-rw-r-- 1 matvet matvet     1184 апр  9 18:01 [01;31mrequest.txt.gz[0m
+-rw-rw-r-- 1 matvet matvet 33554432 апр  9 18:06 sample.exe
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$  ls -l gzsamples/
+[?2004lитого 40
+-rw-rw-r-- 1 matvet matvet 18483 апр  9 18:13 letter.txt
+-rw-rw-r-- 1 matvet matvet  7520 апр  9 18:13 [0m[01;31mletter.txt.gz[0m
+-rw-rw-r-- 1 matvet matvet   584 апр  9 18:14 order.txt
+-rw-rw-r-- 1 matvet matvet   286 апр  9 18:13 [01;31morder.txt.gz[0m
+-rw-rw-r-- 1 matvet matvet  2352 апр  9 18:13 request.txt
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ cp letter.txt letter1.txt
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ cp order.txt order1.txt
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ cp request.txt.gz [K[K[K[K request.txt.gz [K[K[K[K[K[K[K[K[Kt`.tx[K[K[K[K1.txt
+[?2004lcp: не удалось выполнить stat для 'request.txt': Нет такого файла или каталога
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ mv[K[Kmv [K[K[Kcp gzsamples/request.txt request.txt.gz [K[K[K[K1.txt
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ ls
+[?2004l[0m[01;31marzip1.zip[0m  [01;34mBinary1[0m    letter1.txt    order.txt       sample.exe
+[01;31marzip2.zip[0m  [01;34mBinary2[0m    letter.txt     [01;31morder.txt.gz[0m
+[01;31marzip3.zip[0m  [01;34mdocs[0m       [01;31mletter.txt.gz[0m  request1.txt
+[01;31marzip4.zip[0m  [01;34mgzsamples[0m  order1.txt     [01;31mrequest.txt.gz[0m
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ tar -cvf artar1tar request1.txt letter1.txt order1.tt[K[Ktxt
+[?2004lrequest1.txt
+letter1.txt
+order1.txt
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ tar -tvf ar[K[K[K[K[K[K[K[K[K[K[Kls
+[?2004lartar1tar   [0m[01;31marzip3.zip[0m  [01;34mBinary2[0m    letter1.txt    order1.txt    request1.txt
+[01;31marzip1.zip[0m  [01;31marzip4.zip[0m  [01;34mdocs[0m       letter.txt     order.txt     [01;31mrequest.txt.gz[0m
+[01;31marzip2.zip[0m  [01;34mBinary1[0m     [01;34mgzsamples[0m  [01;31mletter.txt.gz[0m  [01;31morder.txt.gz[0m  sample.exe
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ lstar -cvf artar1tar request1.txt letter1.txt order1.txt[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C.tar request1.txt letter1.txt order1.txt[A]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+[?2004lrequest1.txt
+letter1.txt
+order1.txt
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ rmtar -cvf artar1.tar request1.txt letter1.txt order1.txt[K[K[K[K[K[K[K[K[K[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1@r[1@m[1@ 
+[?2004lrm: невозможно удалить 'artar.tar': Нет такого файла или каталога
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ rm artar.tar [1P[1@1
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ ls
+[?2004l[0m[01;31martar1.tar[0m  [01;31marzip3.zip[0m  [01;34mBinary2[0m    letter1.txt    order1.txt    request1.txt
+[01;31marzip1.zip[0m  [01;31marzip4.zip[0m  [01;34mdocs[0m       letter.txt     order.txt     [01;31mrequest.txt.gz[0m
+[01;31marzip2.zip[0m  [01;34mBinary1[0m     [01;34mgzsamples[0m  [01;31mletter.txt.gz[0m  [01;31morder.txt.gz[0m  sample.exe
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ tar - tvf ar
+arA  arc  ard  arr  art  aru  arx  
+]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ tar - tvf ar
+arA  arc  ard  arr  art  aru  arx  
+]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ tar - tvf artar1.tar
+[?2004ltar: Необходимо указать один из параметров «-Acdtrux», «--delete» или «--test-label»
+Попробуйте «tar --help» или «tar --usage» для
+получения более подробного описания.
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ tar - tvf artar1.tar[1P
+[?2004l-rw-rw-r-- matvet/matvet  2352 2025-04-09 18:17 request1.txt
+-rw-rw-r-- matvet/matvet 18483 2025-04-09 18:15 letter1.txt
+-rw-rw-r-- matvet/matvet   584 2025-04-09 18:15 order1.txt
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ echo "нова [Kя строка 1Э[K" >> letter1.txt
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ echo "новая строка 1" >> letter1.txt[1P[1@2
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ echo "новая строка 2" >> letter1.txt[1P[1@3
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ echo "новая строка 3" >> letter1.txt[1P.txt[1P.txt[1P.txt[1P.txt[1P.txt[1P.txt[1P.txto.txtr.txtd.txte.txtr.txt`.txt[1P.txt1.txt
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ echo "новая строка 3" >> order1.txt[1P[1@2
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ echo "новая строка 2" >> order1.txt[1P[1@1
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ nano roder[K[K[K[K[Korder1.txt
+[?2004l[?2004h[?1049h[22;0;0t[1;27r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[25;35H(B[0;7m[ Чтение… ](B[m[25;30H(B[0;7m[ Прочитано 56 строк ](B[m[H(B[0;7m  GNU nano 6.2                       order1.txt                                 [1;79H(B[m[26d(B[0;7m^G(B[m Справка   (B[0;7m^O(B[m Записать  (B[0;7m^W(B[m Поиск     (B[0;7m^K(B[m Вырезать  (B[0;7m^T(B[m Выполнить (B[0;7m^C(B[m Позиция[27d(B[0;7m^X(B[m Выход     (B[0;7m^R(B[m ЧитФайл   (B[0;7m^\(B[m Замена    (B[0;7m^U(B[m Вставить  (B[0;7m^J(B[m Выровнять (B[0;7m^/(B[m К строке[2dalternatives.log[3dalternatives.log.1[4dapport.log[5dapport.log.1[6dapt[7dauth.log[8dauth.log.1[9dauth.log.2.gz[10dauth.log.3.gz[11dboot.log[12dboot.log.1[13dboot.log.2[14dboot.log.3[15dboot.log.4[16dboot.log.5[17dboot.log.6[18dboot.log.7[19dbootstrap.log[20dbtmp[21dbtmp.1[22dcups[23ddist-upgrade[24ddmesg[2d[?12l[?25h[?25l[?12l[?25h[3d[?25l[?12l[?25h[4d[?25l[?12l[?25h[6d[?25l[?12l[?25h[7d[?25l[?12l[?25h[8d[?25l[?12l[?25h[10d[?25l[?12l[?25h[11d[?25l[?12l[?25h[13d[?25l[?12l[?25h[14d[?25l[?12l[?25h[15d[?25l[?12l[?25h[17d[?25l[?12l[?25h[18d[?25l[?12l[?25h[19d[?25l[?12l[?25h[20d[?25l[?12l[?25h[21d[?25l[25d[K[?12l[?25h[22d[?25l[?12l[?25h[23d[?25l[?12l[?25h[24d[?25l[?12l[?25h7[2;25r8[25d
+[1;27r[24;1Hdmesg.0[?25l[?12l[?25h7[2;25r8[25d
+[1;27r[24;1Hdmesg.1.gz[?25l[?12l[?25h7[2;25r8[25d
+[1;27r[24;1Hdmesg.2.gz[?25l[?12l[?25h7[2;25r8[25d
+[1;27r[24;1Hdmesg.3.gz[?25l[?12l[?25h7[2;25r8[25d
+[1;27r[24;1Hdmesg.4.gz[?25l[?12l[?25h7[2;25r8[25d
+[1;27r[24;1Hdpkg.log[?25l[?12l[?25h7[2;25r8[25d
+[1;27r[24;1Hdpkg.log.1[?25l[?12l[?25h7[2;25r8[25d
+[1;27r[24;1Hfaillog[?25l[?12l[?25h7[2;25r8[25d
+[1;27r[24;1Hfontconfig.log[?25l[?12l[?25h7[2;25r8[25d
+[1;27r[24;1Hgdm3[?25l[?12l[?25h7[2;25r8[25d
+[1;27r[24;1Hgpu-manager.log[?25l[?12l[?25h7[2;25r8[25d
+[1;27r[24;1Hgpu-manager-switch.log[?25l[?12l[?25h7[2;25r8[25d
+[1;27r[24;1Hhp[?25l[?12l[?25h7[2;25r8[25d
+[1;27r[24;1Hinstaller[?25l[?12l[?25h7[2;25r8[25d
+[1;27r[24;1Hjournal[?25l[?12l[?25h7[2;25r8[25d
+[1;27r[24;1Hkern.log[?25l[?12l[?25h7[2;25r8[25d
+[1;27r[24;1Hkern.log.1[?25l[?12l[?25h7[2;25r8[25d[2S[1;27r[23;1Hkern.log.2.gz[24dkern.log.3.gz[?25l[?12l[?25h7[2;25r8[25d
+[1;27r[24;1Hlastlog[?25l[?12l[?25h7[2;25r8[25d
+[1;27r[24;1Hopenvpn[?25l[?12l[?25h7[2;25r8[25d
+[1;27r[24;1Hprivate[?25l[?12l[?25h7[2;25r8[25d
+[1;27r[24;1Hspeech-dispatcher[?25l[?12l[?25h7[2;25r8[25d
+[1;27r[24;1Hsyslog[?25l[?12l[?25h7[2;25r8[25d
+[1;27r[24;1Hsyslog.1[?25l[?12l[?25h7[2;25r8[25d
+[1;27r[24;1Hsyslog.2.gz[?25l[?12l[?25h7[2;25r8[25d
+[1;27r[24;1Hsyslog.3.gz[?25l[?12l[?25h7[2;25r8[25d
+[1;27r[24;1Hubuntu-advantage.log[?25l[?12l[?25h7[2;25r8[25d
+[1;27r[24;1Hunattended-upgrades[?25l[?12l[?25h7[2;25r8[25d
+[1;27r[24;1Hwtmp[?25l[?12l[?25h7[2;25r8[25d
+[1;27r[24;1Hновая строка 3[?25l[?12l[?25h7[2;25r8[25d
+[1;27r[24;1Hновая строка 2[?25l[?12l[?25h7[2;25r8[25d
+[1;27r[24;1Hновая строка 1[?25l[?12l[?25h7[2;25r8[25d
+[1;27r[24;1H[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[26d[J[27d[?12l[?25h[27;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ tar -uvf artar1.tar letter1.txt order1.tt[K[Ktxt
+[?2004lletter1.txt
+order1.txt
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ cp letter.txt[K[K[K[K[K[K[K[K[K[K[K[K[Kls
+[?2004l[0m[01;31martar1.tar[0m  [01;31marzip3.zip[0m  [01;34mBinary2[0m    letter1.txt    order1.txt    request1.txt
+[01;31marzip1.zip[0m  [01;31marzip4.zip[0m  [01;34mdocs[0m       letter.txt     order.txt     [01;31mrequest.txt.gz[0m
+[01;31marzip2.zip[0m  [01;34mBinary1[0m     [01;34mgzsamples[0m  [01;31mletter.txt.gz[0m  [01;31morder.txt.gz[0m  sample.exe
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ cp request1.txt request.txt
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ ls
+[?2004l[0m[01;31martar1.tar[0m  [01;31marzip4.zip[0m  [01;34mgzsamples[0m      order1.txt    request.txt
+[01;31marzip1.zip[0m  [01;34mBinary1[0m     letter1.txt    order.txt     [01;31mrequest.txt.gz[0m
+[01;31marzip2.zip[0m  [01;34mBinary2[0m     letter.txt     [01;31morder.txt.gz[0m  sample.exe
+[01;31marzip3.zip[0m  [01;34mdocs[0m        [01;31mletter.txt.gz[0m  request1.txt
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ cp letter.txt letter2.txt
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ cp order.txt order2.txt
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ re[K[Kcp request.txt request2.txt
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ cp request.txt request2.txt[4Porder.txt order2.txtletter.txt letter2.txtls[Kcp request1.txt request.txtls[Ktar -uvf artar1.tar letter1.txt order1.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[27Pnano[C[C[C[C[C[C[C[C[C[C[C[20@echo "новая строка 1" >>[C[C[C[C[C[C[C[C[C[C[C2[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C3[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cletter1.txt2[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C1[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[17Ptar -tvf artar1.tar[1@ [C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[K[K[Ktar -cvf artar2.tar request2.txt letter2.txt order2.txt 
+[?2004lrequest2.txt
+letter2.txt
+order2.txt
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ tar -Af at[Krtar1.tar artar2.tar
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ tar -tvf rtar1.tar[Cartar1.tar
+[?2004l-rw-rw-r-- matvet/matvet  2352 2025-04-09 18:17 request1.txt
+-rw-rw-r-- matvet/matvet 18483 2025-04-09 18:15 letter1.txt
+-rw-rw-r-- matvet/matvet   584 2025-04-09 18:15 order1.txt
+-rw-rw-r-- matvet/matvet 18561 2025-04-09 18:20 letter1.txt
+-rw-rw-r-- matvet/matvet   662 2025-04-09 18:20 order1.txt
+-rw-rw-r-- matvet/matvet  2352 2025-04-09 18:23 request2.txt
+-rw-rw-r-- matvet/matvet 18483 2025-04-09 18:23 letter2.txt
+-rw-rw-r-- matvet/matvet   584 2025-04-09 18:23 order2.txt
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ tar -tvf artar1.tarAf artar1.tar artar2.tarcvf artar2.tar request2.txt letter2.txt order2.txt [A]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ [16Pcp request.txt request2.txt
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4Porder.txt order2.txtletter.txt letter2.txt[1P.txt3.txt
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ cp letter.txt letter3.txt[6Ptar -tvf artar1.tarAf artar1.tar artar2.tarcvf artar2.tar request2.txt letter2.txt order2.txt [A]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ [16Pcp request.txt request2.txt
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4Porder.txt order2.txt[1P.txt3.txt
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ cp order.txt order3.txtletter.txt letter3.txt[6Ptar -tvf artar1.tarAf artar1.tar artar2.tarcvf artar2.tar request2.txt letter2.txt order2.txt [A]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ [16Pcp request.txt request2.txt
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P.txt3.txt
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ tar -cp[Kvpf artar3.tar request3.txt  [Kletter3.txt order3.txt 
+[?2004lrequest3.txt
+letter3.txt
+order3.txt
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ sudo su student
+[?2004l[sudo] пароль для matvet: 
+[?2004hstudent@victus-16-d0xxx:/home/matvet/lab5-tasks$ cp artar3.tar /home/student/art ar3.tar
+[?2004lcp: невозможно создать обычный файл '/home/student/artar3.tar': Отказано в доступе
+[?2004hstudent@victus-16-d0xxx:/home/matvet/lab5-tasks$ cp artar3.tar /home/student/artar3.tar[K[Astudent@victus-16-d0xxx:/home/matvet/lab5-tasks$ cp artar3.tar /home/student/artar3.tar[K[Astudent@victus-16-d0xxx:/home/matvet/lab5-tasks$ cp artar3.tar /home/student/artar3.tar[K[Astudent@victus-16-d0xxx:/home/matvet/lab5-tasks$ cp artar3.tar /home/student/artar3.tar[K[Astudent@victus-16-d0xxx:/home/matvet/lab5-tasks$ cp artar3.tar /home/student/artar3.tar[K[Astudent@victus-16-d0xxx:/home/matvet/lab5-tasks$ cp artar3.tar /home/student/artar3.tar[K[Astudent@victus-16-d0xxx:/home/matvet/lab5-tasks$ cp artar3.tar /home/student/artar3.tar[K[Astudent@victus-16-d0xxx:/home/matvet/lab5-tasks$ cp artar3.tar /home/student/artar3.tar [K[Astudent@victus-16-d0xxx:/home/matvet/lab5-tasks$ cp artar3.tar /home/student/artar3.tar[Kstudent@victus-16-d0xxx:/home/matvet/lab5-tasks$ cp artar3.tar /home/student/artar3.tar[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kcp artar3,tar[K[K[K[K.tar /home/student/artar3.tar
+[?2004lcp: невозможно создать обычный файл '/home/student/artar3.tar': Отказано в доступе
+[?2004hstudent@victus-16-d0xxx:/home/matvet/lab5-tasks$ cp artar3.tar /home/student/artar3.tar[Kcp artar3.tar /home/student/artar3.tar[Kcp artar3.tar /home/student/artar3.tar
+[?2004lcp: невозможно создать обычный файл '/home/student/artar3.tar': Отказано в доступе
+[?2004hstudent@victus-16-d0xxx:/home/matvet/lab5-tasks$ s[Kcp artar3.tar /home/student/artar3.tar[1@sucp artar3.tar /home/student/artar3.tar [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cdcp artar3.tar /home/student/artar3.tar[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cocp artar3.tar /home/student/artar3.tar[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C cp artar3.tar /home/student/artar3.tar[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+[?2004l[sudo] пароль для student: 
+student отсутствует в файле sudoers. Данное действие будет занесено в журнал.
+[?2004hstudent@victus-16-d0xxx:/home/matvet/lab5-tasks$ tar -xvpf artar3.zip
+[?2004ltar: artar3.zip: Функция open завершилась с ошибкой: Нет такого файла или каталога
+tar: Error is not recoverable: exiting now
+[?2004hstudent@victus-16-d0xxx:/home/matvet/lab5-tasks$ tar -xvpf artar3.zipsudo cp artar3.tar /home/student/artar3.tar[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[20Ptar -xvpf artar3.zip
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kexit
+[?2004lexit
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ sudo su student
+[?2004l[?2004hstudent@victus-16-d0xxx:/home/matvet/lab5-tasks$ cp artar3.tar /home/student/artar3.tar
+[?2004lcp: невозможно создать обычный файл '/home/student/artar3.tar': Отказано в доступе
+[?2004hstudent@victus-16-d0xxx:/home/matvet/lab5-tasks$ exit
+[?2004lexit
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ ср[K[Kchom[K[Kmod a+r artar3.tar
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ suo su student
+[?2004lКоманда «suo» не найдена. Возможно, вы имели в виду:
+  команда 'sumo' из deb-пакета sumo (1.12.0+dfsg1-1)
+  команда 'sum' из deb-пакета coreutils (8.32-4.1ubuntu1.2)
+  команда 'sudo' из deb-пакета sudo (1.9.9-1ubuntu2.4)
+  команда 'sudo' из deb-пакета sudo-ldap (1.9.9-1ubuntu2.4)
+  команда 'su1' из deb-пакета hxtools (20211204-1)
+  команда 'sur' из deb-пакета subtle (0.11.3224-xi-2.2build4)
+  команда 'sup' из deb-пакета sup (20100519-3)
+  команда 'su' из deb-пакета util-linux (2.37.2-4ubuntu3.4)
+Попробуйте: sudo apt install <имя_deb-пакета>
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ suo su student[C[C[C[1P
+[?2004lsu: user su does not exist or the user entry does not contain all the required fields
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ su su student[K[K[K[K[K[K[K[K[K[K[Kdo su student
+[?2004l[?2004hstudent@victus-16-d0xxx:/home/matvet/lab5-tasks$ cp artar.[K3,tar /home/student/artar3.tar
+[?2004lcp: не удалось выполнить stat для 'artar3,tar': Нет такого файла или каталога
+[?2004hstudent@victus-16-d0xxx:/home/matvet/lab5-tasks$ cp artar3,tar /home/student/artar3.tar[1P[1@.
+[?2004lcp: невозможно создать обычный файл '/home/student/artar3.tar': Отказано в доступе
+[?2004hstudent@victus-16-d0xxx:/home/matvet/lab5-tasks$ ls -l[K[K[K[K[Kexit
+[?2004lexit
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ ls -l
+[?2004lитого 98632
+-rw-rw-r-- 1 matvet matvet    81920 апр  9 18:24 [0m[01;31martar1.tar[0m
+-rw-rw-r-- 1 matvet matvet    30720 апр  9 18:24 [01;31martar2.tar[0m
+-rw-rw-r-- 1 matvet matvet    30720 апр  9 18:26 [01;31martar3.tar[0m
+-rw-rw-r-- 1 matvet matvet     9369 апр  9 18:03 [01;31marzip1.zip[0m
+-rw-rw-r-- 1 matvet matvet     9537 апр  9 18:04 [01;31marzip2.zip[0m
+-rw-rw-r-- 1 matvet matvet 33559722 апр  9 18:06 [01;31marzip3.zip[0m
+-rw-rw-r-- 1 matvet matvet 33559726 апр  9 18:07 [01;31marzip4.zip[0m
+drwxrwxr-x 2 matvet matvet     4096 апр  9 18:07 [01;34mBinary1[0m
+drwxrwxr-x 2 matvet matvet     4096 апр  9 18:08 [01;34mBinary2[0m
+drwxrwxr-x 2 matvet matvet     4096 апр  9 18:03 [01;34mdocs[0m
+drwxrwxr-x 2 matvet matvet     4096 апр  9 18:14 [01;34mgzsamples[0m
+-rw-rw-r-- 1 matvet matvet    18561 апр  9 18:20 letter1.txt
+-rw-rw-r-- 1 matvet matvet    18483 апр  9 18:23 letter2.txt
+-rw-rw-r-- 1 matvet matvet    18483 апр  9 18:25 letter3.txt
+-rw-rw-r-- 1 matvet matvet    18483 апр  9 18:01 letter.txt
+-rw-rw-r-- 1 matvet matvet     7520 апр  9 18:01 [01;31mletter.txt.gz[0m
+-rw-rw-r-- 1 matvet matvet      662 апр  9 18:20 order1.txt
+-rw-rw-r-- 1 matvet matvet      584 апр  9 18:23 order2.txt
+-rw-rw-r-- 1 matvet matvet      584 апр  9 18:25 order3.txt
+-rw-rw-r-- 1 matvet matvet      584 апр  9 18:02 order.txt
+-rw-rw-r-- 1 matvet matvet      286 апр  9 18:11 [01;31morder.txt.gz[0m
+-rw-rw-r-- 1 matvet matvet     2352 апр  9 18:17 request1.txt
+-rw-rw-r-- 1 matvet matvet     2352 апр  9 18:23 request2.txt
+-rw-rw-r-- 1 matvet matvet     2352 апр  9 18:25 request3.txt
+-rw-rw-r-- 1 matvet matvet     2352 апр  9 18:23 request.txt
+-rw-rw-r-- 1 matvet matvet     1184 апр  9 18:01 [01;31mrequest.txt.gz[0m
+-rw-rw-r-- 1 matvet matvet 33554432 апр  9 18:06 sample.exe
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ chom[K[Kmod a+r artar3.tar
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ chmod ug_rw[K[K[K+rw artar3.tar
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ sudo su student
+[?2004l[?2004hstudent@victus-16-d0xxx:/home/matvet/lab5-tasks$ cp at[Krtar3,[K.tar /homw[Ke/student/artar3.tar
+[?2004lcp: невозможно создать обычный файл '/home/student/artar3.tar': Отказано в доступе
+[?2004hstudent@victus-16-d0xxx:/home/matvet/lab5-tasks$ exit
+[?2004lexit
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ ls -l
+[?2004lитого 98632
+-rw-rw-r-- 1 matvet matvet    81920 апр  9 18:24 [0m[01;31martar1.tar[0m
+-rw-rw-r-- 1 matvet matvet    30720 апр  9 18:24 [01;31martar2.tar[0m
+-rw-rw-r-- 1 matvet matvet    30720 апр  9 18:26 [01;31martar3.tar[0m
+-rw-rw-r-- 1 matvet matvet     9369 апр  9 18:03 [01;31marzip1.zip[0m
+-rw-rw-r-- 1 matvet matvet     9537 апр  9 18:04 [01;31marzip2.zip[0m
+-rw-rw-r-- 1 matvet matvet 33559722 апр  9 18:06 [01;31marzip3.zip[0m
+-rw-rw-r-- 1 matvet matvet 33559726 апр  9 18:07 [01;31marzip4.zip[0m
+drwxrwxr-x 2 matvet matvet     4096 апр  9 18:07 [01;34mBinary1[0m
+drwxrwxr-x 2 matvet matvet     4096 апр  9 18:08 [01;34mBinary2[0m
+drwxrwxr-x 2 matvet matvet     4096 апр  9 18:03 [01;34mdocs[0m
+drwxrwxr-x 2 matvet matvet     4096 апр  9 18:14 [01;34mgzsamples[0m
+-rw-rw-r-- 1 matvet matvet    18561 апр  9 18:20 letter1.txt
+-rw-rw-r-- 1 matvet matvet    18483 апр  9 18:23 letter2.txt
+-rw-rw-r-- 1 matvet matvet    18483 апр  9 18:25 letter3.txt
+-rw-rw-r-- 1 matvet matvet    18483 апр  9 18:01 letter.txt
+-rw-rw-r-- 1 matvet matvet     7520 апр  9 18:01 [01;31mletter.txt.gz[0m
+-rw-rw-r-- 1 matvet matvet      662 апр  9 18:20 order1.txt
+-rw-rw-r-- 1 matvet matvet      584 апр  9 18:23 order2.txt
+-rw-rw-r-- 1 matvet matvet      584 апр  9 18:25 order3.txt
+-rw-rw-r-- 1 matvet matvet      584 апр  9 18:02 order.txt
+-rw-rw-r-- 1 matvet matvet      286 апр  9 18:11 [01;31morder.txt.gz[0m
+-rw-rw-r-- 1 matvet matvet     2352 апр  9 18:17 request1.txt
+-rw-rw-r-- 1 matvet matvet     2352 апр  9 18:23 request2.txt
+-rw-rw-r-- 1 matvet matvet     2352 апр  9 18:25 request3.txt
+-rw-rw-r-- 1 matvet matvet     2352 апр  9 18:23 request.txt
+-rw-rw-r-- 1 matvet matvet     1184 апр  9 18:01 [01;31mrequest.txt.gz[0m
+-rw-rw-r-- 1 matvet matvet 33554432 апр  9 18:06 sample.exe
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ [K]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ [K]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ [K]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ [K]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ [K]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ е[Ktar -xvzf tar_dir2[K/a[K[K[K[K[K[K[K[K[K[K[K[K[K[Kcvzf artar4.tar.gz request4.txt letter4.txt ord er4.txt
+[?2004ltar: request4.txt: Функция stat завершилась с ошибкой: Нет такого файла или каталога
+tar: letter4.txt: Функция stat завершилась с ошибкой: Нет такого файла или каталога
+tar: order4.txt: Функция stat завершилась с ошибкой: Нет такого файла или каталога
+tar: Завершение работы с состоянием неисправности из-за возникших ошибок
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ tar -cvzf artar4.tar.gz request4.txt letter4.txt order4.txt[C[A]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ ls -l[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csudo su studentchmod ug+rw artar3.tar[2Pa+r[C[C[C[C[C[C[C[C[C[C[Cls -l[Ksudo su student[2P[C[C[C[C[C[C[C[C[C[C[C[1@o[C[C[C[C[C[C[C[C[C[C[Cchmod a+r artar3.tar[5Psudo su studenttar -cvpf artar3.tar request3.txt letter3.txt order3.txt [A]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ [25Pcp request.txt request3.txt
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P.txt4.txt
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ cp request.txt request4.txttar -cvzf artar4.tar.gz request4.txt letter4.txt order4.txt[A]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ ls -l[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csudo su studentchmod ug+rw artar3.tar[2Pa+r[C[C[C[C[C[C[C[C[C[C[Cls -l[Ksudo su student[2P[C[C[C[C[C[C[C[C[C[C[C[1@o[C[C[C[C[C[C[C[C[C[C[Cchmod a+r artar3.tar[5Psudo su studenttar -cvpf artar3.tar request3.txt letter3.txt order3.txt [A]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ [25Pcp request.txt request3.txt
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4Porder.txt order3.txt[1P.txt4.txt
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ cp order.txt order4.txtrequest.txt request4.txttar -cvzf artar4.tar.gz request4.txt letter4.txt order4.txt[A]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ ls -l[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csudo su studentchmod ug+rw artar3.tar[2Pa+r[C[C[C[C[C[C[C[C[C[C[Cls -l[Ksudo su student[2P[C[C[C[C[C[C[C[C[C[C[C[1@o[C[C[C[C[C[C[C[C[C[C[Cchmod a+r artar3.tar[5Psudo su studenttar -cvpf artar3.tar request3.txt letter3.txt order3.txt [A]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ [25Pcp request.txt request3.txt
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4Porder.txt order3.txtletter.txt letter3.txt[1P.txt4.txt
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ cp letter.txt letter4.txt[2Porder.txt order4.txtrequest.txt request4.txttar -cvzf artar4.tar.gz request4.txt letter4.txt order4.txt
+[?2004lrequest4.txt
+letter4.txt
+order4.txt
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ mkdir_[K tar_dir
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$  cp[K[K[Kcp artar4.tat.[K[Kr.gz tar_dir/
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ tar -tv[Kzvf tar_dir/artar4.tar.gz 
+[?2004l-rw-rw-r-- matvet/matvet  2352 2025-04-09 18:48 request4.txt
+-rw-rw-r-- matvet/matvet 18483 2025-04-09 18:48 letter4.txt
+-rw-rw-r-- matvet/matvet   584 2025-04-09 18:48 order4.txt
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ cd tar_dir/
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks/tar_dir[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/tar_dir[00m$ cd ..
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ mkdir tar_dir2
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ tar -xvzf tar_dir/artar4.tar.gz  -C tar_dir2
+[?2004lrequest4.txt
+letter4.txt
+order4.txt
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ cd tar_dir
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks/tar_dir[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/tar_dir[00m$  tarcd tar_dirtar -xvzf tar_dir/artar4.tar.gz  -C tar_dir2 [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K artar4.tar.gz 
+[?2004lrequest4.txt
+letter4.txt
+order4.txt
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks/tar_dir[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/tar_dir[00m$ cd ..
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ mkdir -p docs/guides
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ cd docs/guides/
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks/docs/guides[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/docs/guides[00m$ tiu[K[Kouch file1.txt file2.docx file3.pgf fil e4.htnl[K[Kml
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks/docs/guides[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/docs/guides[00m$ mkdir mydocs
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks/docs/guides[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/docs/guides[00m$ cd mydocs/
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks/docs/guides/mydocs[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/docs/guides/mydocs[00m$ touch file5.txt file6.t[Kdocx file7. pdf file8.html
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks/docs/guides/mydocs[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/docs/guides/mydocs[00m$ tar -cvf guides.tar --exclude+"[K[K="my docs" docs/guides
+[?2004ltar: docs/guides: Функция stat завершилась с ошибкой: Нет такого файла или каталога
+tar: Завершение работы с состоянием неисправности из-за возникших ошибок
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks/docs/guides/mydocs[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/docs/guides/mydocs[00m$ tar -cvf guides.tar --exclude="mydocs" docs/guides[A]0;matvet@victus-16-d0xxx: ~/lab5-tasks/docs/guides/mydocs[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/docs/guides/mydocs[00m$ [Couch file5.txt file6.docx file7.p[3Pdf file8.html[A]0;matvet@victus-16-d0xxx: ~/lab5-tasks/docs/guides/mydocs[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/docs/guides/mydocs[00m$ [Car -cvf guides.tar --exclude="mydocs" docs/guides[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexclude="mydo[1P[A]0;matvet@victus-16-d0xxx: ~/lab5-tasks/docs/guides/mydocs[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/docs/guides/mydocs[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexclude="mydoc[1P[A]0;matvet@victus-16-d0xxx: ~/lab5-tasks/docs/guides/mydocs[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/docs/guides/mydocs[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C-exclude="mydo[1@c[A]0;matvet@victus-16-d0xxx: ~/lab5-tasks/docs/guides/mydocs[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/docs/guides/mydocs[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C-exclude="myd[1@o[A]0;matvet@victus-16-d0xxx: ~/lab5-tasks/docs/guides/mydocs[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/docs/guides/mydocs[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C--exclude="mydo[1P[A]0;matvet@victus-16-d0xxx: ~/lab5-tasks/docs/guides/mydocs[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/docs/guides/mydocs[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+[?2004ltar: docs/guides: Функция stat завершилась с ошибкой: Нет такого файла или каталога
+tar: Завершение работы с состоянием неисправности из-за возникших ошибок
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks/docs/guides/mydocs[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/docs/guides/mydocs[00m$ tar -cvf guides.tar--exclude="mydocs" docs/guides[1Pdocs/guides[C[C[C[C docs/guides[C[C[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexclude="mydoc[1P[A]0;matvet@victus-16-d0xxx: ~/lab5-tasks/docs/guides/mydocs[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/docs/guides/mydocs[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C -exclude="mydo[1@c[A]0;matvet@victus-16-d0xxx: ~/lab5-tasks/docs/guides/mydocs[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/docs/guides/mydocs[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+[?2004ltar: недопустимый параметр -- «e»
+Попробуйте «tar --help» или «tar --usage» для
+получения более подробного описания.
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks/docs/guides/mydocs[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/docs/guides/mydocs[00m$ tar -cvf guides.tar -exclude="mydocs" docs/guides\ docs/guides[C[C[C[C[C\ docs/guides[C[C[C[C[C[C\ docs/guides[C[C[C[C[C[C[C[1P docs/guides[C[C[C[C[C[C[1P docs/guides[C[C[C[C[C[1P docs/guides[C[C[C[C[1P docs/guides[C[C[C[1P docs/guides[C[C[1P docs/guides[C[1P docs/guides[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C d[1Pocs/guides[A]0;matvet@victus-16-d0xxx: ~/lab5-tasks/docs/guides/mydocs[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/docs/guides/mydocs[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C do[1Pcs/guides[A]0;matvet@victus-16-d0xxx: ~/lab5-tasks/docs/guides/mydocs[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/docs/guides/mydocs[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C doc[1Ps/guides[A]0;matvet@victus-16-d0xxx: ~/lab5-tasks/docs/guides/mydocs[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/docs/guides/mydocs[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C docs[1P/guides[A]0;matvet@victus-16-d0xxx: ~/lab5-tasks/docs/guides/mydocs[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/docs/guides/mydocs[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C' docs/guides[A]0;matvet@victus-16-d0xxx: ~/lab5-tasks/docs/guides/mydocs[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/docs/guides/mydocs[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cm docs/guides[A]0;matvet@victus-16-d0xxx: ~/lab5-tasks/docs/guides/mydocs[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/docs/guides/mydocs[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cy docs/guides[A]0;matvet@victus-16-d0xxx: ~/lab5-tasks/docs/guides/mydocs[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/docs/guides/mydocs[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cd docs/guideso docs/guides[Cc docs/guides[C[Cs docs/guides[C[C[C' docs/guides[C[C[C[C[C docs/guides[C[C[C[C[C
+[?2004ltar: недопустимый параметр -- «e»
+Попробуйте «tar --help» или «tar --usage» для
+получения более подробного описания.
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks/docs/guides/mydocs[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/docs/guides/mydocs[00m$ tar -cvf guides.tar -exclude='mydocs'  docs/guides[1Pdocs/guides[C[C[C[C
+[?2004ltar: недопустимый параметр -- «e»
+Попробуйте «tar --help» или «tar --usage» для
+получения более подробного описания.
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks/docs/guides/mydocs[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/docs/guides/mydocs[00m$ tar -cvf guides.tar -exclude='mydocs' docs/guides[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[C[C[C[1P[1P[1P[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C' [1Pdocs/guides[A]0;matvet@victus-16-d0xxx: ~/lab5-tasks/docs/guides/mydocs[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/docs/guides/mydocs[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C' d[1Pocs/guides[A]0;matvet@victus-16-d0xxx: ~/lab5-tasks/docs/guides/mydocs[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/docs/guides/mydocs[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C' do[1Pcs/guides[A]0;matvet@victus-16-d0xxx: ~/lab5-tasks/docs/guides/mydocs[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/docs/guides/mydocs[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cf' docs/guides[A]0;matvet@victus-16-d0xxx: ~/lab5-tasks/docs/guides/mydocs[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/docs/guides/mydocs[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ci' docs/guides[A]0;matvet@victus-16-d0xxx: ~/lab5-tasks/docs/guides/mydocs[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/docs/guides/mydocs[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cl' docs/guides[1@e[1@8[1@.[1@h[1@t[1@m[1@l
+[?2004ltar: недопустимый параметр -- «e»
+Попробуйте «tar --help» или «tar --usage» для
+получения более подробного описания.
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks/docs/guides/mydocs[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/docs/guides/mydocs[00m$ tar -cvf guides.tar -exclude='file8.html' docs/guides[A]0;matvet@victus-16-d0xxx: ~/lab5-tasks/docs/guides/mydocs[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/docs/guides/mydocs[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cmydo[4Pcs[C[C[C[C[C[C[C[C[C[C[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C-exclude='myd[1@o[A]0;matvet@victus-16-d0xxx: ~/lab5-tasks/docs/guides/mydocs[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/docs/guides/mydocs[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+[?2004ltar: docs/guides: Функция stat завершилась с ошибкой: Нет такого файла или каталога
+tar: Завершение работы с состоянием неисправности из-за возникших ошибок
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks/docs/guides/mydocs[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/docs/guides/mydocs[00m$ cd ..
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks/docs/guides[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/docs/guides[00m$ [K]0;matvet@victus-16-d0xxx: ~/lab5-tasks/docs/guides[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/docs/guides[00m$ [K]0;matvet@victus-16-d0xxx: ~/lab5-tasks/docs/guides[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/docs/guides[00m$ [K]0;matvet@victus-16-d0xxx: ~/lab5-tasks/docs/guides[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/docs/guides[00m$ [K]0;matvet@victus-16-d0xxx: ~/lab5-tasks/docs/guides[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/docs/guides[00m$ [K]0;matvet@victus-16-d0xxx: ~/lab5-tasks/docs/guides[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/docs/guides[00m$ [K]0;matvet@victus-16-d0xxx: ~/lab5-tasks/docs/guides[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/docs/guides[00m$ [K]0;matvet@victus-16-d0xxx: ~/lab5-tasks/docs/guides[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/docs/guides[00m$ [K]0;matvet@victus-16-d0xxx: ~/lab5-tasks/docs/guides[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/docs/guides[00m$ [K]0;matvet@victus-16-d0xxx: ~/lab5-tasks/docs/guides[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/docs/guides[00m$ [K]0;matvet@victus-16-d0xxx: ~/lab5-tasks/docs/guides[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/docs/guides[00m$ [K]0;matvet@victus-16-d0xxx: ~/lab5-tasks/docs/guides[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/docs/guides[00m$ [K]0;matvet@victus-16-d0xxx: ~/lab5-tasks/docs/guides[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/docs/guides[00m$ [K]0;matvet@victus-16-d0xxx: ~/lab5-tasks/docs/guides[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/docs/guides[00m$ [K]0;matvet@victus-16-d0xxx: ~/lab5-tasks/docs/guides[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/docs/guides[00m$ [K]0;matvet@victus-16-d0xxx: ~/lab5-tasks/docs/guides[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/docs/guides[00m$ [K]0;matvet@victus-16-d0xxx: ~/lab5-tasks/docs/guides[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/docs/guides[00m$ [K]0;matvet@victus-16-d0xxx: ~/lab5-tasks/docs/guides[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/docs/guides[00m$ [K]0;matvet@victus-16-d0xxx: ~/lab5-tasks/docs/guides[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/docs/guides[00m$ ды[K[Kls
+[?2004lfile1.txt  file2.docx  file3.pgf  file4.html  [0m[01;34mmydocs[0m
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks/docs/guides[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/docs/guides[00m$ cd ..
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks/docs[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/docs[00m$ cd ..
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ cd ..[3Plscd ..tar -cvf guides.tar --exclude='mydocs' docs/guides[C[1P docs/guides" docs/guides[1P[1@"
+[?2004ldocs/guides/
+docs/guides/file3.pgf
+docs/guides/file2.docx
+docs/guides/file4.html
+docs/guides/file1.txt
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ tar -cvf guides.tar --exclude="mydocs" docs/guides[1P docs/guides[1P docs/guides[1P docs/guides[1P docs/guides[1P docs/guides[1P docs/guides[1P docs/guides[1P docs/guides[1P docs/guides[1P docs/guides[1P docs/guides[1P docs/guides[1P docs/guides[1P docs/guides[1P docs/guides[1P docs/guides[1P docs/guides[1P docs/guides[1Pdocs/guides
+[?2004ldocs/guides/
+docs/guides/file3.pgf
+docs/guides/file2.docx
+docs/guides/file4.html
+docs/guides/mydocs/
+docs/guides/mydocs/guides.tar--exclude=mydocs
+docs/guides/mydocs/file7.pdf
+docs/guides/mydocs/file8.html
+docs/guides/mydocs/file6.docx
+docs/guides/mydocs/file5.txt
+docs/guides/mydocs/guides.tar
+docs/guides/file1.txt
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ mkdir example-xz
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ cd example-xz/
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks/example-xz[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/example-xz[00m$ dd if=/dev/urandom of=file1.txt bs=1m[KM count=10
+[?2004l10+0 записей получено
+10+0 записей отправлено
+10485760 байт (10 MB, 10 MiB) скопирован, 0,0263786 s, 398 MB/s
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks/example-xz[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/example-xz[00m$ dd if=/dev/urandom of=file1.txt bs=1M count=10[C[1P[1@2
+[?2004l10+0 записей получено
+10+0 записей отправлено
+10485760 байт (10 MB, 10 MiB) скопирован, 0,0252531 s, 415 MB/s
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks/example-xz[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/example-xz[00m$ dd if=/dev/urandom of=file2.txt bs=1M count=10[1P[1@3
+[?2004l10+0 записей получено
+10+0 записей отправлено
+10485760 байт (10 MB, 10 MiB) скопирован, 0,0241899 s, 433 MB/s
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks/example-xz[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/example-xz[00m$ dd if=/dev/urandom of=file3.txt bs=1M count=10[1P[1@4[C[C[C[C[C[C[1P[1P[1@d[1@o[1@c[1P[1P[1P[1P[1@d[1@o[1@c
+[?2004l10+0 записей получено
+10+0 записей отправлено
+10485760 байт (10 MB, 10 MiB) скопирован, 0,0243963 s, 430 MB/s
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks/example-xz[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/example-xz[00m$ cd ..
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ xs -l example-xz/file1.txt
+[?2004lxs: команда не найдена
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ xs -l example-xz/file1.txt[C[1P[1@z
+[?2004lxz: example-xz/file1.txt: Формат файла не опознан
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ xz -l example-xz/file1.txt[1P example-xz/file1.txtk example-xz/file1.txt
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ tar -cf - example-xz/ | xz > example-xz/[K[Kz.tar.xz
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ tar -cf - example-xz/ | xz > example-xz.tar.xz[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K-T3 > example-xzth[K[K-threaded.tar.xz
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ tar -cf - example-xz/*.dc[Koc | xz > ezap[K[K[Kxample-xz-docs.tar.xz
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ tar -tf example-xz-docs.tar.xz 
+[?2004lexample-xz/file4.doc
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ cd example-xz/
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks/example-xz[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/example-xz[00m$ ld[Ks
+[?2004lfile1.txt  [0m[01;31mfile1.txt.xz[0m  file2.txt  file3.txt  file4.doc
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks/example-xz[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/example-xz[00m$ xz -d example-[K[K[K[K[K[K[K[K[K[K[K[K[K[Kcd ..
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ ls
+[?2004l[0m[01;31martar1.tar[0m     [01;34mBinary1[0m                     [01;34mgzsamples[0m      order2.txt    request4.txt
+[01;31martar2.tar[0m     [01;34mBinary2[0m                     letter1.txt    order3.txt    request.txt
+[01;31martar3.tar[0m     [01;34mdocs[0m                        letter2.txt    order4.txt    [01;31mrequest.txt.gz[0m
+[01;31martar4.tar.gz[0m  [01;34mexample-xz[0m                  letter3.txt    order.txt     sample.exe
+[01;31marzip1.zip[0m     [01;31mexample-xz-docs.tar.xz[0m      letter4.txt    [01;31morder.txt.gz[0m  [01;34mtar_dir[0m
+[01;31marzip2.zip[0m     [01;31mexample-xz.tar.xz[0m           letter.txt     request1.txt  [01;34mtar_dir2[0m
+[01;31marzip3.zip[0m     [01;31mexample-xz-threaded.tar.xz[0m  [01;31mletter.txt.gz[0m  request2.txt
+[01;31marzip4.zip[0m     [01;31mguides.tar[0m                  order1.txt     request3.txt
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ lscd ..[3Plscd example-xz/
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks/example-xz[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/example-xz[00m$ уч[K[Kcd example-xz/
+[?2004lbash: cd: example-xz/: Нет такого файла или каталога
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks/example-xz[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/example-xz[00m$ tar -cf - example-xz | xz > exq[Kample-xz.tar.xz
+[?2004ltar: example-xz: Функция stat завершилась с ошибкой: Нет такого файла или каталога
+tar: Завершение работы с состоянием неисправности из-за возникших ошибок
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks/example-xz[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/example-xz[00m$ cd ..
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ cd ..tar -cf - example-xz | xz > example-xz.tar.xz
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ -tar -cf - ez[Kxample-xz | xz -9 > example-xz-high.tar.xz
+[?2004lКоманда «-tar» не найдена. Возможно, вы имели в виду:
+  команда 'qtar' из deb-пакета hxtools (20211204-1)
+  команда 'ftar' из deb-пакета fai-client (5.10.3ubuntu1)
+  команда 'ptar' из deb-пакета perl (5.34.0-3ubuntu1.3)
+  команда 'tar' из deb-пакета tar (1.34+dfsg-1ubuntu0.1.22.04.2)
+Попробуйте: sudo apt install <имя_deb-пакета>
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ -tar -cf - example-xz | xz -9 > example-xz-high.tar.xz[1P
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ tar -cf - example-xz | xz -9 > example-xz-high.tar.xz[1P.tar.xz[1P.tar.xz[1P.tar.xz[1P.tar.xzm.tar.xzu.tar.xzl.tar.xzt.tar.xzi.tar.xz[1P[1P[1@-[1@T[1@2
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ tar -tf example-xz.r[Ktar.xz 
+[?2004lexample-xz/
+example-xz/example-xz.tar.xz
+example-xz/file3.txt
+example-xz/file4.doc
+example-xz/file1.txt.xz
+example-xz/file2.txt
+example-xz/file1.txt
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ mkdir rsu[Kync-backup temp
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ cp request.txt letter.txt order.txt rsync-backup/
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ rsync -av rsync-backup/temp/
+[?2004lsending incremental file list
+rsync: [sender] change_dir "/home/matvet/lab5-tasks/rsync-backup/temp" failed: No such file or directory (2)
+
+sent 19 bytes  received 12 bytes  62,00 bytes/sec
+total size is 0  speedup is 0,00
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.2.7]
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ echo "new string" ЮЮ[K[K>> rsync-backup/letter.txt 
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ rsync -av rsync-backup/temp/
+[?2004lsending incremental file list
+rsync: [sender] change_dir "/home/matvet/lab5-tasks/rsync-backup/temp" failed: No such file or directory (2)
+
+sent 19 bytes  received 12 bytes  62,00 bytes/sec
+total size is 0  speedup is 0,00
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.2.7]
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ exit
+[?2004lexit
+
+Script done on 2025-04-09 21:00:18+03:00 [COMMAND_EXIT_CODE="23"]

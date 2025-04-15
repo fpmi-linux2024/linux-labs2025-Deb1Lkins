@@ -1,0 +1,810 @@
+Script started on 2025-04-09 21:07:41+03:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="107" LINES="32"]
+[?2004h]0;matvet@victus-16-d0xxx: ~[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~[00m$ ефк[K[K[Ktar -xvf artar1.tar -C /HOMW[K[K[K[Khome/user/L[KДокументы
+[?2004ltar: artar1.tar: Функция open завершилась с ошибкой: Нет такого файла или каталога
+tar: Error is not recoverable: exiting now
+[?2004h]0;matvet@victus-16-d0xxx: ~[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~[00m$ tar -xvf artar1.tar -C /home/user/Документы[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kcd lab
+lab/        lab5-tasks/ 
+]0;matvet@victus-16-d0xxx: ~[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~[00m$ cd lab5-tasks/
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ cd lab5-tasks/tar -xvf artar1.tar -C /home/user/Документы
+[?2004ltar: /home/user/Документы: Функция open завершилась с ошибкой: Нет такого файла или каталога
+tar: Error is not recoverable: exiting now
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ ls
+[?2004l[0m[01;31martar1.tar[0m     [01;34mBinary2[0m                     [01;34mgzsamples[0m      order3.txt    [01;31mrequest.txt.gz[0m
+[01;31martar2.tar[0m     [01;34mdocs[0m                        letter1.txt    order4.txt    [01;34mrsync-backup[0m
+[01;31martar3.tar[0m     [01;34mexample-xz[0m                  letter2.txt    order.txt     sample.exe
+[01;31martar4.tar.gz[0m  [01;31mexample-xz-docs.tar.xz[0m      letter3.txt    [01;31morder.txt.gz[0m  [01;34mtar_dir[0m
+[01;31marzip1.zip[0m     [01;31mexample-xz-high.tar.xz[0m      letter4.txt    request1.txt  [01;34mtar_dir2[0m
+[01;31marzip2.zip[0m     [01;31mexample-xz-multi.tar.xz[0m     letter.txt     request2.txt  [01;34mtemp[0m
+[01;31marzip3.zip[0m     [01;31mexample-xz.tar.xz[0m           [01;31mletter.txt.gz[0m  request3.txt
+[01;31marzip4.zip[0m     [01;31mexample-xz-threaded.tar.xz[0m  order1.txt     request4.txt
+[01;34mBinary1[0m        [01;31mguides.tar[0m                  order2.txt     request.txt
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ lstar -xvf artar1.tar -C /home/user/Документы
+[?2004ltar: /home/user/Документы: Функция open завершилась с ошибкой: Нет такого файла или каталога
+tar: Error is not recoverable: exiting now
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ tar -xvf artar1.tar -C /home/user/Документы
+[?2004ltar: /home/user/Документы: Функция open завершилась с ошибкой: Нет такого файла или каталога
+tar: Error is not recoverable: exiting now
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ tar -xvf artar1.tar -C /home/user/Документы
+[?2004ltar: /home/user/Документы: Функция open завершилась с ошибкой: Нет такого файла или каталога
+tar: Error is not recoverable: exiting now
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ tar -xvf artar1.tar -C /home/user/Документы[K[K[K[K[K[K[K[K[KP[KЗагрузки
+[?2004ltar: /home/user/Загрузки: Функция open завершилась с ошибкой: Нет такого файла или каталога
+tar: Error is not recoverable: exiting now
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ tar -xvf artar1.tar -C /home/user/Загрузки[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kpwd
+[?2004l/home/matvet/lab5-tasks
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ pwdtar -xvf artar1.tar -C /home/user/Загрузки[1P/Загрузки[1P/Загрузки[1P/Загрузки[1P/Загрузкиь/Загрузкиф/Загрузкие/Загрузким/Загрузкиу/Загрузкие/Загрузки[1P/Загрузки[1P/Загрузки[1P/Загрузки[1P/Загрузки[1P/Загрузки[1P/Загрузкиm/Загрузкиa/Загрузкиt/Загрузкиv/Загрузкиe/Загрузкиt/Загрузки[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[KДокументы
+[?2004lrequest1.txt
+letter1.txt
+order1.txt
+letter1.txt
+order1.txt
+request2.txt
+letter2.txt
+order2.txt
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ е[Ktar -xvf artar1.tar -C /home/matvet/Документы[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Krequest3.txt[1P[1P[1P[1@r[1@f
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ mkdu[Kir newdir
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks[00m$ cd newdit[Kr
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks/newdir[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/newdir[00m$ echo "txt doc" > file1.txt
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks/newdir[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/newdir[00m$ echo "txt doc" > file1.txt[C[C[C[C[C[C[C[C[C[1P.txt2.txt[C[C[C[C[K[K[Kdoc
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks/newdir[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/newdir[00m$ echo "txt doc" > file2.docx[1P.docx3.docx
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks/newdir[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/newdir[00m$ touch file1.jpg
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks/newdir[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/newdir[00m$ ls
+[?2004l[0m[01;35mfile1.jpg[0m  file1.txt  file2.doc  file3.docx
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks/newdir[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/newdir[00m$ tar -cvf example.tar *.txt *.doc *.docx *.jpg
+[?2004lfile1.txt
+file2.doc
+file3.docx
+file1.jpg
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks/newdir[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/newdir[00m$ tar -xvf example.tar --wildcards '*.doc"[K'
+[?2004lfile2.doc
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks/newdir[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/newdir[00m$ ls ~ > example1.txt
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks/newdir[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/newdir[00m$ ls /etc > example3[K2.txt
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks/newdir[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/newdir[00m$ tar -cxf output.txt.gz example1.txt  example2.txt 
+[?2004ltar: Указать можно только один из параметров «-Acdtrux», «--delete» или «--test-label»
+Попробуйте «tar --help» или «tar --usage» для
+получения более подробного описания.
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks/newdir[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/newdir[00m$ tar -cxf output.txt.gz example1.txt  example2.txt [C[1P[1@z
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks/newdir[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/newdir[00m$ gunzip 0[K-c output.txt.gz
+[?2004lexample1.txt                                                                                        0000664 0001750 0001750 00000000506 14775534446 012743  0                                                                                                    ustar   matvet                          matvet                                                                                                                                                                                                                 albiononline
+AstraLinux-1.8.1.12-29.08.24_15.37.iso
+code.txt
+dec.txt
+lab
+lab5-tasks
+Mail
+pwd
+radare2
+README.md
+retdec
+snap
+task1rotgon
+task2rotgon
+timelog1rotgon
+timelog2rotgon
+Видео
+Документы
+Загрузки
+Изображения
+Музыка
+Общедоступные
+Рабочий стол
+Шаблоны
+                                                                                                                                                                                          example2.txt                                                                                        0000664 0001750 0001750 00000004460 14775534465 012750  0                                                                                                    ustar   matvet                          matvet                                                                                                                                                                                                                 acpi
+adduser.conf
+aliases
+alsa
+alternatives
+anacrontab
+apache2
+apg.conf
+apm
+apparmor
+apparmor.d
+apport
+appstream.conf
+apt
+avahi
+bash.bashrc
+bash_completion
+bash_completion.d
+bindresvport.blacklist
+binfmt.d
+bluetooth
+brlapi.key
+brltty
+brltty.conf
+ca-certificates
+ca-certificates.conf
+ca-certificates.conf.dpkg-old
+chatscripts
+console-setup
+cracklib
+cron.d
+cron.daily
+cron.hourly
+cron.monthly
+crontab
+cron.weekly
+cups
+cupshelpers
+dbus-1
+dconf
+debconf.conf
+debian_version
+default
+deluser.conf
+denyusers
+depmod.d
+dhcp
+dictionaries-common
+dpkg
+e2scrub.conf
+emacs
+environment
+environment.d
+ethertypes
+firefox
+fonts
+fprintd.conf
+fstab
+fuse.conf
+fwupd
+gai.conf
+gdb
+gdm3
+geoclue
+ghostscript
+gimp
+glvnd
+gnome
+groff
+group
+group-
+grub.d
+gshadow
+gshadow-
+gss
+gtk-2.0
+gtk-3.0
+hdparm.conf
+host.conf
+hostid
+hostname
+hosts
+hosts.allow
+hosts.deny
+hp
+ifplugd
+igfx_user_feature_next.txt
+igfx_user_feature.txt
+init
+init.d
+initramfs-tools
+inputrc
+insserv.conf.d
+ipp-usb
+iproute2
+issue
+issue.net
+kernel
+kernel-img.conf
+kerneloops.conf
+ldap
+ld.so.cache
+ld.so.conf
+ld.so.conf.d
+legal
+libao.conf
+libaudit.conf
+libblockdev
+libnl-3
+libpaper.d
+libreoffice
+lighttpd
+locale.alias
+locale.gen
+localtime
+logcheck
+login.defs
+logrotate.conf
+logrotate.d
+lsb-release
+machine-id
+machine-info
+magic
+magic.mime
+mailcap
+mailcap.order
+manpath.config
+mime.types
+mke2fs.conf
+ModemManager
+modprobe.d
+modules
+modules-load.d
+motd
+mtab
+Muttrc
+Muttrc.d
+mysql
+nanorc
+netconfig
+netplan
+network
+networkd-dispatcher
+NetworkManager
+networks
+newt
+nftables.conf
+nsswitch.conf
+OpenCL
+openvpn
+opt
+os-release
+PackageKit
+pam.conf
+pam.d
+papersize
+passwd
+passwd-
+pcmcia
+perl
+pki
+pm
+pnm2ppa.conf
+polkit-1
+postfix
+ppp
+prime-discrete
+printcap
+profile
+profile.d
+protocols
+pulse
+python3
+python3.10
+rc0.d
+rc1.d
+rc2.d
+rc3.d
+rc4.d
+rc5.d
+rc6.d
+rcS.d
+resolv.conf
+resolvconf
+rmt
+rpc
+rsyslog.conf
+rsyslog.d
+rygel.conf
+sane.d
+security
+selinux
+sensors3.conf
+sensors.d
+services
+sgml
+shadow
+shadow-
+shells
+skel
+snmp
+speech-dispatcher
+ssh
+ssl
+subgid
+subgid-
+subuid
+subuid-
+sudo.conf
+sudoers
+sudoers.d
+sudo_logsrvd.conf
+sysctl.conf
+sysctl.d
+systemd
+terminfo
+thermald
+thunderbird
+timezone
+tmpfiles.d
+ubuntu-advantage
+ucf.conf
+udev
+udisks2
+ufw
+update-manager
+update-motd.d
+update-notifier
+UPower
+usb_modeswitch.conf
+usb_modeswitch.d
+vdpau_wrapper.cfg
+vim
+vtrgb
+vulkan
+wgetrc
+wpa_supplicant
+X11
+xattr.conf
+xdg
+xml
+zsh_command_not_found
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                [?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks/newdir[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/newdir[00m$ [K]0;matvet@victus-16-d0xxx: ~/lab5-tasks/newdir[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/newdir[00m$ [K]0;matvet@victus-16-d0xxx: ~/lab5-tasks/newdir[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/newdir[00m$ [K]0;matvet@victus-16-d0xxx: ~/lab5-tasks/newdir[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/newdir[00m$ [K]0;matvet@victus-16-d0xxx: ~/lab5-tasks/newdir[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/newdir[00m$ [K]0;matvet@victus-16-d0xxx: ~/lab5-tasks/newdir[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/newdir[00m$ zcat output.txt.gz
+[?2004lexample1.txt                                                                                        0000664 0001750 0001750 00000000506 14775534446 012743  0                                                                                                    ustar   matvet                          matvet                                                                                                                                                                                                                 albiononline
+AstraLinux-1.8.1.12-29.08.24_15.37.iso
+code.txt
+dec.txt
+lab
+lab5-tasks
+Mail
+pwd
+radare2
+README.md
+retdec
+snap
+task1rotgon
+task2rotgon
+timelog1rotgon
+timelog2rotgon
+Видео
+Документы
+Загрузки
+Изображения
+Музыка
+Общедоступные
+Рабочий стол
+Шаблоны
+                                                                                                                                                                                          example2.txt                                                                                        0000664 0001750 0001750 00000004460 14775534465 012750  0                                                                                                    ustar   matvet                          matvet                                                                                                                                                                                                                 acpi
+adduser.conf
+aliases
+alsa
+alternatives
+anacrontab
+apache2
+apg.conf
+apm
+apparmor
+apparmor.d
+apport
+appstream.conf
+apt
+avahi
+bash.bashrc
+bash_completion
+bash_completion.d
+bindresvport.blacklist
+binfmt.d
+bluetooth
+brlapi.key
+brltty
+brltty.conf
+ca-certificates
+ca-certificates.conf
+ca-certificates.conf.dpkg-old
+chatscripts
+console-setup
+cracklib
+cron.d
+cron.daily
+cron.hourly
+cron.monthly
+crontab
+cron.weekly
+cups
+cupshelpers
+dbus-1
+dconf
+debconf.conf
+debian_version
+default
+deluser.conf
+denyusers
+depmod.d
+dhcp
+dictionaries-common
+dpkg
+e2scrub.conf
+emacs
+environment
+environment.d
+ethertypes
+firefox
+fonts
+fprintd.conf
+fstab
+fuse.conf
+fwupd
+gai.conf
+gdb
+gdm3
+geoclue
+ghostscript
+gimp
+glvnd
+gnome
+groff
+group
+group-
+grub.d
+gshadow
+gshadow-
+gss
+gtk-2.0
+gtk-3.0
+hdparm.conf
+host.conf
+hostid
+hostname
+hosts
+hosts.allow
+hosts.deny
+hp
+ifplugd
+igfx_user_feature_next.txt
+igfx_user_feature.txt
+init
+init.d
+initramfs-tools
+inputrc
+insserv.conf.d
+ipp-usb
+iproute2
+issue
+issue.net
+kernel
+kernel-img.conf
+kerneloops.conf
+ldap
+ld.so.cache
+ld.so.conf
+ld.so.conf.d
+legal
+libao.conf
+libaudit.conf
+libblockdev
+libnl-3
+libpaper.d
+libreoffice
+lighttpd
+locale.alias
+locale.gen
+localtime
+logcheck
+login.defs
+logrotate.conf
+logrotate.d
+lsb-release
+machine-id
+machine-info
+magic
+magic.mime
+mailcap
+mailcap.order
+manpath.config
+mime.types
+mke2fs.conf
+ModemManager
+modprobe.d
+modules
+modules-load.d
+motd
+mtab
+Muttrc
+Muttrc.d
+mysql
+nanorc
+netconfig
+netplan
+network
+networkd-dispatcher
+NetworkManager
+networks
+newt
+nftables.conf
+nsswitch.conf
+OpenCL
+openvpn
+opt
+os-release
+PackageKit
+pam.conf
+pam.d
+papersize
+passwd
+passwd-
+pcmcia
+perl
+pki
+pm
+pnm2ppa.conf
+polkit-1
+postfix
+ppp
+prime-discrete
+printcap
+profile
+profile.d
+protocols
+pulse
+python3
+python3.10
+rc0.d
+rc1.d
+rc2.d
+rc3.d
+rc4.d
+rc5.d
+rc6.d
+rcS.d
+resolv.conf
+resolvconf
+rmt
+rpc
+rsyslog.conf
+rsyslog.d
+rygel.conf
+sane.d
+security
+selinux
+sensors3.conf
+sensors.d
+services
+sgml
+shadow
+shadow-
+shells
+skel
+snmp
+speech-dispatcher
+ssh
+ssl
+subgid
+subgid-
+subuid
+subuid-
+sudo.conf
+sudoers
+sudoers.d
+sudo_logsrvd.conf
+sysctl.conf
+sysctl.d
+systemd
+terminfo
+thermald
+thunderbird
+timezone
+tmpfiles.d
+ubuntu-advantage
+ucf.conf
+udev
+udisks2
+ufw
+update-manager
+update-motd.d
+update-notifier
+UPower
+usb_modeswitch.conf
+usb_modeswitch.d
+vdpau_wrapper.cfg
+vim
+vtrgb
+vulkan
+wgetrc
+wpa_supplicant
+X11
+xattr.conf
+xdg
+xml
+zsh_command_not_found
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                [?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks/newdir[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/newdir[00m$ tar -cvf - AstraLinux-1.8.1.12-29.08.24_15.37.iso | gzip | spli t -b 100M - mint.[K[K[K[K[Kastro.gz.part- [KAS[Kstr[Ka[Kr[Kra[K[K[K[K[K a[KAstraLinux-1.8.1.12-29.08.24_15.37.iso 
+[?2004lAstraLinux-1.8.1.12-29.08.24_15.37.iso
+split: лишний операнд «AstraLinux-1.8.1.12-29.08.24_15.37.iso»
+По команде «split --help» можно получить дополнительную информацию.
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks/newdir[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/newdir[00m$ tar -cvf - AstraLinux-1.8.1.12-29.08.24_15.37.iso | gzip | split -b 100M - astro.gz.part- AstraLinux-1.8.1.12-29.08.24_15.37.iso [K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K
+[?2004lAstraLinux-1.8.1.12-29.08.24_15.37.iso
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks/newdir[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/newdir[00m$ ls
+[?2004l[0m[01;32mAstraLinux-1.8.1.12-29.08.24_15.37.iso[0m  astro.gz.part-as  astro.gz.part-bl  astro.gz.part-ce
+astro.gz.part-aa                        astro.gz.part-at  astro.gz.part-bm  astro.gz.part-cf
+astro.gz.part-ab                        astro.gz.part-au  astro.gz.part-bn  astro.gz.part-cg
+astro.gz.part-ac                        astro.gz.part-av  astro.gz.part-bo  astro.gz.part-ch
+astro.gz.part-ad                        astro.gz.part-aw  astro.gz.part-bp  astro.gz.part-ci
+astro.gz.part-ae                        astro.gz.part-ax  astro.gz.part-bq  astro.gz.part-cj
+astro.gz.part-af                        astro.gz.part-ay  astro.gz.part-br  astro.gz.part-ck
+astro.gz.part-ag                        astro.gz.part-az  astro.gz.part-bs  astro.gz.part-cl
+astro.gz.part-ah                        astro.gz.part-ba  astro.gz.part-bt  astro.gz.part-cm
+astro.gz.part-ai                        astro.gz.part-bb  astro.gz.part-bu  astro.gz.part-cn
+astro.gz.part-aj                        astro.gz.part-bc  astro.gz.part-bv  astro.gz.part-co
+astro.gz.part-ak                        astro.gz.part-bd  astro.gz.part-bw  example1.txt
+astro.gz.part-al                        astro.gz.part-be  astro.gz.part-bx  example2.txt
+astro.gz.part-am                        astro.gz.part-bf  astro.gz.part-by  [01;31mexample.tar[0m
+astro.gz.part-an                        astro.gz.part-bg  astro.gz.part-bz  [01;35mfile1.jpg[0m
+astro.gz.part-ao                        astro.gz.part-bh  astro.gz.part-ca  file1.txt
+astro.gz.part-ap                        astro.gz.part-bi  astro.gz.part-cb  file2.doc
+astro.gz.part-aq                        astro.gz.part-bj  astro.gz.part-cc  file3.docx
+astro.gz.part-ar                        astro.gz.part-bk  astro.gz.part-cd  [01;31moutput.txt.gz[0m
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks/newdir[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/newdir[00m$ lstar -cvf - AstraLinux-1.8.1.12-29.08.24_15.37.iso | gzip | split -b 100M - astro.gz.part-_.gz.part-x.gz.part-z.gz.part-[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C | split [1P[A]0;matvet@victus-16-d0xxx: ~/lab5-tasks/newdir[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/newdir[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C | split -[1P[A]0;matvet@victus-16-d0xxx: ~/lab5-tasks/newdir[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/newdir[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C | split -b[1P[A]0;matvet@victus-16-d0xxx: ~/lab5-tasks/newdir[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/newdir[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C | split -b [1P[A]0;matvet@victus-16-d0xxx: ~/lab5-tasks/newdir[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/newdir[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cx | split -b[1@ [A]0;matvet@victus-16-d0xxx: ~/lab5-tasks/newdir[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/newdir[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cz | split -[1@b[A]0;matvet@victus-16-d0xxx: ~/lab5-tasks/newdir[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/newdir[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+[?2004lAstraLinux-1.8.1.12-29.08.24_15.37.iso
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks/newdir[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/newdir[00m$ ды[K[Kls
+[?2004l[0m[01;32mAstraLinux-1.8.1.12-29.08.24_15.37.iso[0m  astro.gz.part-bj     astro_xz.gz.part-ae  astro_xz.gz.part-bo
+astro.gz.part-aa                        astro.gz.part-bk     astro_xz.gz.part-af  astro_xz.gz.part-bp
+astro.gz.part-ab                        astro.gz.part-bl     astro_xz.gz.part-ag  astro_xz.gz.part-bq
+astro.gz.part-ac                        astro.gz.part-bm     astro_xz.gz.part-ah  astro_xz.gz.part-br
+astro.gz.part-ad                        astro.gz.part-bn     astro_xz.gz.part-ai  astro_xz.gz.part-bs
+astro.gz.part-ae                        astro.gz.part-bo     astro_xz.gz.part-aj  astro_xz.gz.part-bt
+astro.gz.part-af                        astro.gz.part-bp     astro_xz.gz.part-ak  astro_xz.gz.part-bu
+astro.gz.part-ag                        astro.gz.part-bq     astro_xz.gz.part-al  astro_xz.gz.part-bv
+astro.gz.part-ah                        astro.gz.part-br     astro_xz.gz.part-am  astro_xz.gz.part-bw
+astro.gz.part-ai                        astro.gz.part-bs     astro_xz.gz.part-an  astro_xz.gz.part-bx
+astro.gz.part-aj                        astro.gz.part-bt     astro_xz.gz.part-ao  astro_xz.gz.part-by
+astro.gz.part-ak                        astro.gz.part-bu     astro_xz.gz.part-ap  astro_xz.gz.part-bz
+astro.gz.part-al                        astro.gz.part-bv     astro_xz.gz.part-aq  astro_xz.gz.part-ca
+astro.gz.part-am                        astro.gz.part-bw     astro_xz.gz.part-ar  astro_xz.gz.part-cb
+astro.gz.part-an                        astro.gz.part-bx     astro_xz.gz.part-as  astro_xz.gz.part-cc
+astro.gz.part-ao                        astro.gz.part-by     astro_xz.gz.part-at  astro_xz.gz.part-cd
+astro.gz.part-ap                        astro.gz.part-bz     astro_xz.gz.part-au  astro_xz.gz.part-ce
+astro.gz.part-aq                        astro.gz.part-ca     astro_xz.gz.part-av  astro_xz.gz.part-cf
+astro.gz.part-ar                        astro.gz.part-cb     astro_xz.gz.part-aw  astro_xz.gz.part-cg
+astro.gz.part-as                        astro.gz.part-cc     astro_xz.gz.part-ax  astro_xz.gz.part-ch
+astro.gz.part-at                        astro.gz.part-cd     astro_xz.gz.part-ay  astro_xz.gz.part-ci
+astro.gz.part-au                        astro.gz.part-ce     astro_xz.gz.part-az  astro_xz.gz.part-cj
+astro.gz.part-av                        astro.gz.part-cf     astro_xz.gz.part-ba  astro_xz.gz.part-ck
+astro.gz.part-aw                        astro.gz.part-cg     astro_xz.gz.part-bb  astro_xz.gz.part-cl
+astro.gz.part-ax                        astro.gz.part-ch     astro_xz.gz.part-bc  astro_xz.gz.part-cm
+astro.gz.part-ay                        astro.gz.part-ci     astro_xz.gz.part-bd  astro_xz.gz.part-cn
+astro.gz.part-az                        astro.gz.part-cj     astro_xz.gz.part-be  example1.txt
+astro.gz.part-ba                        astro.gz.part-ck     astro_xz.gz.part-bf  example2.txt
+astro.gz.part-bb                        astro.gz.part-cl     astro_xz.gz.part-bg  [01;31mexample.tar[0m
+astro.gz.part-bc                        astro.gz.part-cm     astro_xz.gz.part-bh  [01;35mfile1.jpg[0m
+astro.gz.part-bd                        astro.gz.part-cn     astro_xz.gz.part-bi  file1.txt
+astro.gz.part-be                        astro.gz.part-co     astro_xz.gz.part-bj  file2.doc
+astro.gz.part-bf                        astro_xz.gz.part-aa  astro_xz.gz.part-bk  file3.docx
+astro.gz.part-bg                        astro_xz.gz.part-ab  astro_xz.gz.part-bl  [01;31moutput.txt.gz[0m
+astro.gz.part-bh                        astro_xz.gz.part-ac  astro_xz.gz.part-bm
+astro.gz.part-bi                        astro_xz.gz.part-ad  astro_xz.gz.part-bn
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks/newdir[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/newdir[00m$ [K]0;matvet@victus-16-d0xxx: ~/lab5-tasks/newdir[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/newdir[00m$ [K]0;matvet@victus-16-d0xxx: ~/lab5-tasks/newdir[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/newdir[00m$ [K]0;matvet@victus-16-d0xxx: ~/lab5-tasks/newdir[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/newdir[00m$ [K]0;matvet@victus-16-d0xxx: ~/lab5-tasks/newdir[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/newdir[00m$ [K]0;matvet@victus-16-d0xxx: ~/lab5-tasks/newdir[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/newdir[00m$ [K]0;matvet@victus-16-d0xxx: ~/lab5-tasks/newdir[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/newdir[00m$ [K]0;matvet@victus-16-d0xxx: ~/lab5-tasks/newdir[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/newdir[00m$ [K]0;matvet@victus-16-d0xxx: ~/lab5-tasks/newdir[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/newdir[00m$ [K]0;matvet@victus-16-d0xxx: ~/lab5-tasks/newdir[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/newdir[00m$ [K]0;matvet@victus-16-d0xxx: ~/lab5-tasks/newdir[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/newdir[00m$ [K]0;matvet@victus-16-d0xxx: ~/lab5-tasks/newdir[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/newdir[00m$ [K]0;matvet@victus-16-d0xxx: ~/lab5-tasks/newdir[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/newdir[00m$ сф[K[Kxat[K[K[Kcat astro_xz[K[K[K.gzpart-* | gunzi[[Kp > full_astro.iso
+[?2004lcat: 'astro.gzpart-*': Нет такого файла или каталога
+
+gzip: stdin: unexpected end of file
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks/newdir[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/newdir[00m$ cat astro.gzpart-* | gunzip > full_astro.iso[C[1@.
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks/newdir[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/newdir[00m$ 7z -v500 astro
+Display all 133 possibilities? (y or n)
+]0;matvet@victus-16-d0xxx: ~/lab5-tasks/newdir[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/newdir[00m$ 7z -v500 astro[K[K[K[K[Kastro[K[K[K[K[KAstraLinux-1.8.1.12-29.08.24_15.37.iso [1@A[1P[C[1@ [1@a[1@s[1@t[1@r[1@o[1@_[1@i[1@s[1@o[1@.[1@7[1@z[C[1@ [1P
+[?2004lКоманда «7z» не найдена, но может быть установлена с помощью:
+sudo apt install p7zip-full
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks/newdir[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/newdir[00m$ 7z -v500 astro_iso.7z AstraLinux-1.8.1.12-29.08.24_15.37.iso [C[C[C[1@a -v500 astro_iso.7z AstraLinux-1.8.1.12-29.08.24_15.37.iso  [A]0;matvet@victus-16-d0xxx: ~/lab5-tasks/newdir[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/newdir[00m$ [C[C[C[C[C
+[?2004lКоманда «7z» не найдена, но может быть установлена с помощью:
+sudo apt install p7zip-full
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks/newdir[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/newdir[00m$ p7zip
+[?2004lКоманда «p7zip» не найдена, но может быть установлена с помощью:
+sudo apt install p7zip
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks/newdir[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/newdir[00m$ 7z
+[?2004lКоманда «7z» не найдена, но может быть установлена с помощью:
+sudo apt install p7zip-full
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks/newdir[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/newdir[00m$ sudo apt install p7zip-full 
+[?2004l[sudo] пароль для matvet: 
+Чтение списков пакетов… 0%Чтение списков пакетов… 100%Чтение списков пакетов… Готово
+Построение дерева зависимостей… 0%Построение дерева зависимостей… 0%Построение дерева зависимостей… 50%Построение дерева зависимостей… 50%Построение дерева зависимостей… Готово
+Чтение информации о состоянии… 0%             Чтение информации о состоянии… 0%Чтение информации о состоянии… Готово
+Следующий пакет устанавливался автоматически и больше не требуется:
+  libntfs-3g89
+Для его удаления используйте «sudo apt autoremove».
+Будут установлены следующие дополнительные пакеты:
+  p7zip
+Предлагаемые пакеты:
+  p7zip-rar
+Следующие НОВЫЕ пакеты будут установлены:
+  p7zip p7zip-full
+Обновлено 0 пакетов, установлено 2 новых пакетов, для удаления отмечено 0 пакетов, и 33 пакетов не обновлено.
+Необходимо скачать 1 549 kB архивов.
+После данной операции объём занятого дискового пространства возрастёт на 5 847 kB.
+Хотите продолжить? [Д/н] 
+[33m0% [Обработка][0m[33m0% [Соединение с by.archive.ubuntu.com][0m[33m0% [Соединение с by.archive.ubuntu.com][0m[33m0% [Соединение с by.archive.ubuntu.com][0m[33m0% [Соединение с by.archive.ubuntu.com (2a02:2208:0:2b:ffff::71)][0m[33m                                                                            0% [Ожидание заголовков][0m                                          Пол:1 http://by.archive.ubuntu.com/ubuntu jammy/universe amd64 p7zip amd64 16.02+dfsg-8 [363 kB]
+[33m                                          1% [1 p7zip 13,6 kB/363 kB 4%][0m[33m1% [1 p7zip 13,6 kB/363 kB 4%][0m[33m1% [1 p7zip 13,6 kB/363 kB 4%][0m[33m2% [1 p7zip 42,8 kB/363 kB 12%][0m[33m                               5% [1 p7zip 104 kB/363 kB 29%][0m[33m11% [1 p7zip 216 kB/363 kB 60%][0m[33m                               29% [Обработка][0m[33m29% [Ожидание заголовков]                                                 59,0 kB/s 20с[0m[33m29% [Ожидание заголовков]                                                 59,0 kB/s 20с[0m                                                                                                          Пол:2 http://by.archive.ubuntu.com/ubuntu jammy/universe amd64 p7zip-full amd64 16.02+dfsg-8 [1 186 kB]
+[33m29% [2 p7zip-full 1 135 B/1 186 kB 0%]                                                  59,0 kB/s 20с[0m[33m36% [2 p7zip-full 137 kB/1 186 kB 12%]                                                    59,0 kB/s 17с[0m[33m38% [2 p7zip-full 180 kB/1 186 kB 15%]                                                    59,0 kB/s 17с[0m[33m39% [2 p7zip-full 201 kB/1 186 kB 17%]                                                    59,0 kB/s 16с[0m[33m40% [2 p7zip-full 215 kB/1 186 kB 18%]                                                    59,0 kB/s 16с[0m[33m46% [2 p7zip-full 327 kB/1 186 kB 28%]                                                    59,0 kB/s 14с[0m[33m56% [2 p7zip-full 523 kB/1 186 kB 44%]                                                    59,0 kB/s 11с[0m[33m65% [2 p7zip-full 701 kB/1 186 kB 59%]                                                     59,0 kB/s 8с[0m[33m69% [2 p7zip-full 776 kB/1 186 kB 65%]                                                     59,0 kB/s 6с[0m[33m74% [2 p7zip-full 878 kB/1 186 kB 74%]                                                     59,0 kB/s 5с[0m[33m76% [2 p7zip-full 910 kB/1 186 kB 77%]                                                     59,0 kB/s 4с[0m[33m76% [2 p7zip-full 917 kB/1 186 kB 77%]                                                      146 kB/s 1с[0m[33m76% [2 p7zip-full 917 kB/1 186 kB 77%]                                                      146 kB/s 1с[0m[33m76% [2 p7zip-full 917 kB/1 186 kB 77%]                                                      146 kB/s 1с[0m[33m90% [2 p7zip-full 1 181 kB/1 186 kB 100%]                                                 146 kB/s 0с[0m[33m100% [Обработка]                                                                     146 kB/s 0с[0m                                                                                                          Получено 1 549 kB за 14с (111 kB/s)
+
+7[0;34r8[1AВыбор ранее не выбранного пакета p7zip.
+(Чтение базы данных … (Чтение базы данных … 5%(Чтение базы данных … 10%(Чтение базы данных … 15%(Чтение базы данных … 20%(Чтение базы данных … 25%(Чтение базы данных … 30%(Чтение базы данных … 35%(Чтение базы данных … 40%(Чтение базы данных … 45%(Чтение базы данных … 50%(Чтение базы данных … 55%(Чтение базы данных … 60%(Чтение базы данных … 65%(Чтение базы данных … 70%(Чтение базы данных … 75%(Чтение базы данных … 80%(Чтение базы данных … 85%(Чтение базы данных … 90%(Чтение базы данных … 95%(Чтение базы данных … 100%(Чтение базы данных … на данный момент установлено 233519 файлов и каталогов.)
+Подготовка к распаковке …/p7zip_16.02+dfsg-8_amd64.deb …
+7[35;0f[42m[30mХод выполнения: [  0%][49m[39m [...............................................................................] 87[35;0f[42m[30mХод выполнения: [ 11%][49m[39m [########.......................................................................] 8Распаковывается p7zip (16.02+dfsg-8) …
+7[35;0f[42m[30mХод выполнения: [ 22%][49m[39m [#################..............................................................] 8Выбор ранее не выбранного пакета p7zip-full.
+Подготовка к распаковке …/p7zip-full_16.02+dfsg-8_amd64.deb …
+7[35;0f[42m[30mХод выполнения: [ 33%][49m[39m [##########################.....................................................] 8Распаковывается p7zip-full (16.02+dfsg-8) …
+7[35;0f[42m[30mХод выполнения: [ 44%][49m[39m [###################################............................................] 8Настраивается пакет p7zip (16.02+dfsg-8) …
+7[35;0f[42m[30mХод выполнения: [ 56%][49m[39m [###########################################....................................] 87[35;0f[42m[30mХод выполнения: [ 67%][49m[39m [####################################################...........................] 8Настраивается пакет p7zip-full (16.02+dfsg-8) …
+7[35;0f[42m[30mХод выполнения: [ 78%][49m[39m [#############################################################..................] 87[35;0f[42m[30mХод выполнения: [ 89%][49m[39m [######################################################################.........] 8Обрабатываются триггеры для man-db (2.10.2-1) …
+
+7[0;35r8[1A[J[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks/newdir[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/newdir[00m$ sudo apt install p7zip-full 7z[Kp7zip7z a -v500 astro_iso.7z AstraLinux-1.8.1.12-29.08.24_15.37.iso  [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K 
+[?2004l
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=ru_RU.UTF-8,Utf16=on,HugeFiles=on,64 bits,12 CPUs 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz (806D1),ASM,AES-NI)
+
+Scanning the drive:
+  0M Scan           1 file, 7063023616 bytes (6736 MiB)
+
+Creating archive: astro_iso.7z
+
+Items to compress: 1
+
+  0%      0% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                               1% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                               2% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                               3% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                               4% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                               5% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                             
+
+System ERROR:
+Слишком много открытых файлов
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks/newdir[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/newdir[00m$ 7z a -v500 astro_iso.7z AstraLinux-1.8.1.12-29.08.24_15.37.iso  \
+[?2004l[?2004h> \[K
+[?2004l
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=ru_RU.UTF-8,Utf16=on,HugeFiles=on,64 bits,12 CPUs 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz (806D1),ASM,AES-NI)
+
+Scanning the drive:
+  0M Scan           1 file, 7063023616 bytes (6736 MiB)
+
+Creating archive: astro_iso.7z
+
+Items to compress: 1
+
+  0%      0% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                               1% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                               2% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                               3% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                               4% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                               5% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                             
+
+System ERROR:
+Слишком много открытых файлов
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks/newdir[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/newdir[00m$ 7z a -v500 astro_iso.7z AstraLinux-1.8.1.12-29.08.24_15.37.iso \[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CM astro_iso.7z AstraLinux-1.8.1.12-29.08.24_15.37.iso \[A]0;matvet@victus-16-d0xxx: ~/lab5-tasks/newdir[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/newdir[00m$ [C[C[C[C[C[C[C[C[C[C[C
+
+[?2004l[?2004h> 
+[?2004l
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=ru_RU.UTF-8,Utf16=on,HugeFiles=on,64 bits,12 CPUs 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz (806D1),ASM,AES-NI)
+
+Scanning the drive:
+  0M Scan           1 file, 7063023616 bytes (6736 MiB)
+
+Creating archive: astro_iso.7z
+
+Items to compress: 1
+
+  0%      0% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                               1% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                               2% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                               3% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                               4% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                               5% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                               6% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                               7% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                               8% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                               9% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              10% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              11% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              12% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              13% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              14% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              15% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              16% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              17% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              18% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              19% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              20% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              21% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              22% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              23% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              24% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              25% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              26% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              27% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              28% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              29% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              30% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              31% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              32% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              33% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              34% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              35% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              36% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              37% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              38% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              39% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              40% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              41% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              42% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              43% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              44% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              45% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              46% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              47% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              48% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              49% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              50% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              51% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              52% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              53% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              54% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              55% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              56% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              57% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              58% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              59% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              60% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              61% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              62% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              63% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              64% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              65% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              66% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              67% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              68% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              69% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              70% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              71% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              72% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              73% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              74% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              75% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              76% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              77% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              78% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              79% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              80% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              81% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              82% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              83% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              84% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              85% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              86% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              87% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              88% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              89% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              90% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              91% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              92% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              93% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              94% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              95% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              96% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              97% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              98% + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                              98% 1 + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                                99% 1 + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                               100% 1 + AstraLinux-1.8.1.12-29.08.24_15.37.iso                                               
+Files read from disk: 1
+Archive size: 6786969997 bytes (6473 MiB)
+Everything is Ok
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks/newdir[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/newdir[00m$ ырф[K[K[Kshar
+[?2004lКоманда «shar» не найдена, но может быть установлена с помощью:
+sudo apt install sharutils
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks/newdir[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/newdir[00m$ shar[K[K[K[Ksuo[Kdo apt install sharutils
+[?2004lЧтение списков пакетов… 0%Чтение списков пакетов… 100%Чтение списков пакетов… Готово
+Построение дерева зависимостей… 0%Построение дерева зависимостей… 0%Построение дерева зависимостей… 50%Построение дерева зависимостей… 50%Построение дерева зависимостей… Готово
+Чтение информации о состоянии… 0%             Чтение информации о состоянии… 0%Чтение информации о состоянии… Готово
+Следующий пакет устанавливался автоматически и больше не требуется:
+  libntfs-3g89
+Для его удаления используйте «sudo apt autoremove».
+Предлагаемые пакеты:
+  sharutils-doc
+Следующие НОВЫЕ пакеты будут установлены:
+  sharutils
+Обновлено 0 пакетов, установлено 1 новых пакетов, для удаления отмечено 0 пакетов, и 33 пакетов не обновлено.
+Необходимо скачать 143 kB архивов.
+После данной операции объём занятого дискового пространства возрастёт на 537 kB.
+[33m0% [Обработка][0m[33m0% [Соединение с by.archive.ubuntu.com][0m[33m                                                  0% [Ожидание заголовков][0m                                          Пол:1 http://by.archive.ubuntu.com/ubuntu jammy/universe amd64 sharutils amd64 1:4.15.2-5build1 [143 kB]
+[33m                                          1% [1 sharutils 1 137 B/143 kB 1%][0m[33m39% [1 sharutils 69,1 kB/143 kB 48%][0m[33m                                    100% [Обработка][0m                         Получено 143 kB за 2с (74,4 kB/s)
+
+7[0;34r8[1AВыбор ранее не выбранного пакета sharutils.
+(Чтение базы данных … (Чтение базы данных … 5%(Чтение базы данных … 10%(Чтение базы данных … 15%(Чтение базы данных … 20%(Чтение базы данных … 25%(Чтение базы данных … 30%(Чтение базы данных … 35%(Чтение базы данных … 40%(Чтение базы данных … 45%(Чтение базы данных … 50%(Чтение базы данных … 55%(Чтение базы данных … 60%(Чтение базы данных … 65%(Чтение базы данных … 70%(Чтение базы данных … 75%(Чтение базы данных … 80%(Чтение базы данных … 85%(Чтение базы данных … 90%(Чтение базы данных … 95%(Чтение базы данных … 100%(Чтение базы данных … на данный момент установлено 233616 файлов и каталогов.)
+Подготовка к распаковке …/sharutils_1%3a4.15.2-5build1_amd64.deb …
+7[35;0f[42m[30mХод выполнения: [  0%][49m[39m [...............................................................................] 87[35;0f[42m[30mХод выполнения: [ 20%][49m[39m [###############................................................................] 8Распаковывается sharutils (1:4.15.2-5build1) …
+7[35;0f[42m[30mХод выполнения: [ 40%][49m[39m [###############################................................................] 8Настраивается пакет sharutils (1:4.15.2-5build1) …
+7[35;0f[42m[30mХод выполнения: [ 60%][49m[39m [###############################################................................] 87[35;0f[42m[30mХод выполнения: [ 80%][49m[39m [###############################################################................] 8Обрабатываются триггеры для install-info (6.8-4build1) …
+Обрабатываются триггеры для man-db (2.10.2-1) …
+
+7[0;35r8[1A[J[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks/newdir[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/newdir[00m$ shar example1.txt example2.txt > archive.shar
+[?2004lshar: Сохраняется example1.txt (текстовый)
+shar: Сохраняется example2.txt (текстовый)
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks/newdir[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/newdir[00m$ sudo chmod +x archive.shar 
+[?2004l[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks/newdir[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/newdir[00m$ ./archive.shar 
+[?2004lx - created lock directory _sh16931.
+x - SKIPPING example1.txt (file already exists)
+x - SKIPPING example2.txt (file already exists)
+x - removed lock directory _sh16931.
+[?2004h]0;matvet@victus-16-d0xxx: ~/lab5-tasks/newdir[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~/lab5-tasks/newdir[00m$ exit
+[?2004lexit
+
+Script done on 2025-04-09 22:21:50+03:00 [COMMAND_EXIT_CODE="0"]
