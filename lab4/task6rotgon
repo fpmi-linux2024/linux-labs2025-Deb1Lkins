@@ -1,0 +1,160 @@
+Script started on 2025-04-08 13:56:32+03:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+[?2004h]0;matvet@victus-16-d0xxx: ~[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~[00m$ sudo su
+[?2004l[sudo] пароль для matvet: 
+[?2004h]0;root@victus-16-d0xxx: /home/matvetroot@victus-16-d0xxx:/home/matvet# mkdir -p /tmp/labrabota4/example-acl
+[?2004l[?2004h]0;root@victus-16-d0xxx: /home/matvetroot@victus-16-d0xxx:/home/matvet# cd /tmp/labrabota4/example-acl/
+[?2004l[?2004h]0;root@victus-16-d0xxx: /tmp/labrabota4/example-aclroot@victus-16-d0xxx:/tmp/labrabota4/example-acl# ls -la /etc > file1.txt
+[?2004l[?2004h]0;root@victus-16-d0xxx: /tmp/labrabota4/example-aclroot@victus-16-d0xxx:/tmp/labrabota4/example-acl# setfacl -m u:student:rw file1. txt
+[?2004l[?2004h]0;root@victus-16-d0xxx: /tmp/labrabota4/example-aclroot@victus-16-d0xxx:/tmp/labrabota4/example-acl# getfacl file1.txt
+[?2004l# file: file1.txt
+# owner: root
+# group: root
+user::rw-
+user:student:rw-
+group::r--
+mask::rw-
+other::r--
+
+[?2004h]0;root@victus-16-d0xxx: /tmp/labrabota4/example-aclroot@victus-16-d0xxx:/tmp/labrabota4/example-acl# su student
+[?2004l[?2004hstudent@victus-16-d0xxx:/tmp/labrabota4/example-acl$ vim file1,txt[K[K[K[K.xt[K[Ktxt
+[?2004l[?1049h[22;0;0t[>4;2m[?1h=[?2004h[?1004h[1;24r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[24;1H"file1.txt" 246L, 14581B[2;1H▽[6n[2;1H  [3;1HPzz\[0%m[6n[3;1H           [1;1H[>c]10;?]11;?[1;1Hи[1;2Hт[1;3Hо[1;4Hг[1;5Hо[1;7H1252
+drwxr-xr-x 137 root root   12288 к[2;35Hр[2;36Hа[2;37H  8 13:27 .[2;48H[K[3;1Hdrwxr-xr-x  20 root root    4096 л[3;35Hю[3;36Hт[3;37H 17 11:36 ..[3;49H[K[4;1Hdrwxr-xr-x   3 root root    4096 в[4;35Hе[4;36Hр[4;38H11  2024 acpi
+-rw-r--r--   1 root root    3028 в[5;35Hе[5;36Hр[5;38H11  2024 adduser.conf
+-rw-r--r--   1 root root      51 с[6;35Hа[6;36Hк[6;39H8 18:06 aliases
+drwxr-xr-x   3 root root    4096 в[7;35Hе[7;36Hр[7;38H11  2024 alsa
+drwxr-xr-x   2 root root    4096 с[8;35Hа[8;36Hк[8;39H8 18:06 alternatives
+-rw-r--r--   1 root root     335 с[9;35Hа[9;36Hк[9;38H23  2022 anacrontab
+drwxr-xr-x   3 root root    4096 к[10;35Hр[10;36Hа[10;39H6 23:30 apache2
+-rw-r--r--   1 root root     433 с[11;35Hа[11;36Hк[11;38H23  2022 apg.conf
+drwxr-xr-x   5 root root    4096 в[12;35Hе[12;36Hр[12;38H11  2024 apm
+drwxr-xr-x   3 root root    4096 л[13;35Hю[13;36Hт[13;38H17 12:26 apparmor
+drwxr-xr-x   8 root root    4096 с[14;35Hа[14;36Hк[14;38H31 19:00 apparmor.d
+drwxr-xr-x   4 root root    4096 в[15;35Hе[15;36Hр[15;38H11  2024 apport
+-rw-r--r--   1 root root     769 л[16;35Hю[16;36Hт[16;38H22  2022 appstream.conf
+drwxr-xr-x   8 root root    4096 л[17;35Hю[17;36Hт[17;38H17 12:21 apt
+drwxr-xr-x   3 root root    4096 в[18;35Hе[18;36Hр[18;38H11  2024 avahi
+-rw-r--r--   1 root root    2319 с[19;35Hт[19;36Hу[19;39H6  2022 bash.bashrc
+-rw-r--r--   1 root root      45 л[20;35Hіс[20;38H11  2021 bash_completion
+drwxr-xr-x   2 root root    4096 с[21;35Hа[21;36Hк[21;39H3 09:01 bash_completion.d
+-rw-r--r--   1 root root     367 с[22;35Hн[22;36Hе[22;38H16  2020 bindresvport.blacklist
+drwxr-xr-x   2 root root    4096 к[23;35Hр[23;36Hа[23;39H7  2022 binfmt.d[24;63H1,1[7CН[24;74Hа[24;75Hв[24;76Hе[24;77Hр[24;78Hх[24;79Hу[1;1H[?25hP+q436f\P+q6b75\P+q6b64\P+q6b72\P+q6b6c\P+q2332\P+q2334\P+q2569\P+q2a37\P+q6b31\P$q q\[?12$p[?25l[24;53H:[1;1H[24;54H3[1;1H[24;55H0[1;1H[24;56H3[1;1H[24;57H0[1;1H[24;58H/[1;1H[24;59H0[1;1H[24;60Ha[1;1H[24;61H0[1;1H[24;62Ha[1;1H[24;53H          [1;1H[27m[23m[29m[m[H[2J[1;1Hи[1;2Hт[1;3Hо[1;4Hг[1;5Hо[1;7H1252
+drwxr-xr-x 137 root root   12288 к[2;35Hр[2;36Hа[2;39H8 13:27 .
+drwxr-xr-x  20 root root    4096 л[3;35Hю[3;36Hт[3;38H17 11:36 ..
+drwxr-xr-x   3 root root    4096 в[4;35Hе[4;36Hр[4;38H11  2024 acpi
+-rw-r--r--   1 root root    3028 в[5;35Hе[5;36Hр[5;38H11  2024 adduser.conf
+-rw-r--r--   1 root root      51 с[6;35Hа[6;36Hк[6;39H8 18:06 aliases
+drwxr-xr-x   3 root root    4096 в[7;35Hе[7;36Hр[7;38H11  2024 alsa
+drwxr-xr-x   2 root root    4096 с[8;35Hа[8;36Hк[8;39H8 18:06 alternatives
+-rw-r--r--   1 root root     335 с[9;35Hа[9;36Hк[9;38H23  2022 anacrontab
+drwxr-xr-x   3 root root    4096 к[10;35Hр[10;36Hа[10;39H6 23:30 apache2
+-rw-r--r--   1 root root     433 с[11;35Hа[11;36Hк[11;38H23  2022 apg.conf
+drwxr-xr-x   5 root root    4096 в[12;35Hе[12;36Hр[12;38H11  2024 apm
+drwxr-xr-x   3 root root    4096 л[13;35Hю[13;36Hт[13;38H17 12:26 apparmor
+drwxr-xr-x   8 root root    4096 с[14;35Hа[14;36Hк[14;38H31 19:00 apparmor.d
+drwxr-xr-x   4 root root    4096 в[15;35Hе[15;36Hр[15;38H11  2024 apport
+-rw-r--r--   1 root root     769 л[16;35Hю[16;36Hт[16;38H22  2022 appstream.conf
+drwxr-xr-x   8 root root    4096 л[17;35Hю[17;36Hт[17;38H17 12:21 apt
+drwxr-xr-x   3 root root    4096 в[18;35Hе[18;36Hр[18;38H11  2024 avahi
+-rw-r--r--   1 root root    2319 с[19;35Hт[19;36Hу[19;39H6  2022 bash.bashrc
+-rw-r--r--   1 root root      45 л[20;35Hіс[20;38H11  2021 bash_completion
+drwxr-xr-x   2 root root    4096 с[21;35Hа[21;36Hк[21;39H3 09:01 bash_completion.d
+-rw-r--r--   1 root root     367 с[22;35Hн[22;36Hе[22;38H16  2020 bindresvport.blacklist
+drwxr-xr-x   2 root root    4096 к[23;35Hр[23;36Hа[23;39H7  2022 binfmt.d[24;63H1,1[7CН[24;74Hа[24;75Hв[24;76Hе[24;77Hр[24;78Hх[24;79Hу[24;1H"file1.txt" 246L, 14581B[1;1H[?25h[?25l[24;53Hi[1;1H[24;53H [1;1H[24;1H[1m-- В[24;5HС[24;6HТ[24;7HА[24;8HВ[24;9HК[24;10HА[24;11H --[m[24;14H[K[24;63H1,1[7CН[24;74Hа[24;75Hв[24;76Hе[24;77Hр[24;78Hх[24;79Hу[1;1H[?25h[?25l[2;23r[2;1H[L[1;24r[1;1H[K[2;1Hи[2;2Hт[2;3Hо[2;4Hг[2;5Hо[2;7H1252[24;63H[K[24;63H2,1[7CН[24;74Hа[24;75Hв[24;76Hе[24;77Hр[24;78Hх[24;79Hу[2;1H[?25h[?25l[24;63H1[1;1H[?25h[?25lH[24;65H2[1;2H[?25h[?25l[1;1H[K[24;65H1[1;1H[?25h[?25lР[24;65H3-2[1;2H[?25h[?25lо[24;65H5-3[1;3H[?25h[?25lт[24;65H7-4[1;4H[?25h[?25lг[24;65H9-5[1;5H[?25h[?25lо[24;65H11-6[1;6H[?25h[?25lн[24;66H3-7[1;7H[?25h[?25l[24;63H2,12[2;7H[?25h[?25l[24;63H1,13[1;7H[?25h[?25l[24;63H2,12[2;7H[?25h[?25l[24;63H3,7   [3;7H[?25h[?25l[24;63H4[4;7H[?25h[?25l[24;63H5[5;7H[?25h[?25l[24;65H6[5;6H[?25h[?25l[24;65H5[5;5H[?25h[?25l[24;65H4[5;4H[?25h[?25l[24;65H3[5;3H[?25h[?25l[24;65H2[5;2H[?25h[?25l[24;65H1[5;1H[?25h[?25l[6;23r[6;1H[L[1;24r[5;1H[K[6;1Hdrwxr-xr-x   3 root root    4096 в[6;35Hе[6;36Hр[6;38H11  2024 acpi[24;63H[K[24;63H6,1[7CН[24;74Hа[24;75Hв[24;76Hе[24;77Hр[24;78Hх[24;79Hу[6;1H[?25h[?25l[24;63H5[5;1H[?25h[?25lМ[24;65H3-2[5;2H[?25h[?25lа[24;65H5-3[5;3H[?25h[?25lт[24;65H7-4[5;4H[?25h[?25lв[24;65H9-5[5;5H[?25h[?25lе[24;65H11-6[5;6H[?25h[?25lй[24;66H3-7[5;7H[?25h[24;1H[K[5;6H[?25l[24;53H^[[5;6H[24;53H  [5;7H[24;63H5,11-6    Н[24;74Hа[24;75Hв[24;76Hе[24;77Hр[24;78Hх[24;79Hу[5;6H[?25h[?25l[24;53H<0416>[5;6H[24;53H      [5;6H[?25h[?25l[24;53H:[5;6H[24;53H[K[24;1H:[?25hwq[?25l[?2004l[>4;m"file1.txt" 248L, 14607B з[24;27Hа[24;28Hп[24;29Hи[24;30Hс[24;31Hа[24;32Hн[24;33Hо[24;1H[23;2t[23;1t
+[?1004l[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t[?2004hstudent@victus-16-d0xxx:/tmp/labrabota4/example-acl$ exit
+[?2004lexit
+[?2004h]0;root@victus-16-d0xxx: /tmp/labrabota4/example-aclroot@victus-16-d0xxx:/tmp/labrabota4/example-acl# ls /use[Kr/bin/ > file2.txt
+[?2004l[?2004h]0;root@victus-16-d0xxx: /tmp/labrabota4/example-aclroot@victus-16-d0xxx:/tmp/labrabota4/example-acl# getfacl file1.txt "[K| setfacl -- set-feli=[K[K[K[Kile=- file2.txt
+[?2004l[?2004h]0;root@victus-16-d0xxx: /tmp/labrabota4/example-aclroot@victus-16-d0xxx:/tmp/labrabota4/example-acl# gw[K[Kgetfacl file1.txt file2.txt fi le3.txt
+[?2004l# file: file1.txt
+# owner: root
+# group: root
+user::rw-
+user:student:rw-
+group::r--
+mask::rw-
+other::r--
+
+# file: file2.txt
+# owner: root
+# group: root
+user::rw-
+user:student:rw-
+group::r--
+mask::rw-
+other::r--
+
+getfacl: file3.txt: Нет такого файла или каталога
+[?2004h]0;root@victus-16-d0xxx: /tmp/labrabota4/example-aclroot@victus-16-d0xxx:/tmp/labrabota4/example-acl# setfacl -m g:visitors:rwx /tmp /labrabota4/example-acl/
+[?2004l[?2004h]0;root@victus-16-d0xxx: /tmp/labrabota4/example-aclroot@victus-16-d0xxx:/tmp/labrabota4/example-acl# setfacl -m g:visitors:rwx /tmp/labrabota4/example-acl/[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C /tmp/l[1Pabrabota4/example-acl/[A]0;root@victus-16-d0xxx: /tmp/labrabota4/example-aclroot@victus-16-d0xxx:/tmp/labrabota4/example-acl# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C /tmp/la[1Pbrabota4/example-acl/[A]0;root@victus-16-d0xxx: /tmp/labrabota4/example-aclroot@victus-16-d0xxx:/tmp/labrabota4/example-acl# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C /tmp/lab[1Prabota4/example-acl/[A]0;root@victus-16-d0xxx: /tmp/labrabota4/example-aclroot@victus-16-d0xxx:/tmp/labrabota4/example-acl# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C /tmp/labr[1Pabota4/example-acl/[A]0;root@victus-16-d0xxx: /tmp/labrabota4/example-aclroot@victus-16-d0xxx:/tmp/labrabota4/example-acl# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C /tmp/labra[1Pbota4/example-acl/[A]0;root@victus-16-d0xxx: /tmp/labrabota4/example-aclroot@victus-16-d0xxx:/tmp/labrabota4/example-acl# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C /tmp/labrab[1Pota4/example-acl/[A]0;root@victus-16-d0xxx: /tmp/labrabota4/example-aclroot@victus-16-d0xxx:/tmp/labrabota4/example-acl# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C /tmp/labrabo[1Pta4/example-acl/[A]0;root@victus-16-d0xxx: /tmp/labrabota4/example-aclroot@victus-16-d0xxx:/tmp/labrabota4/example-acl# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C /tmp/labrabot[1Pa4/example-acl/[A]0;root@victus-16-d0xxx: /tmp/labrabota4/example-aclroot@victus-16-d0xxx:/tmp/labrabota4/example-acl# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C /tmp/labrabota[1P4/example-acl/[A]0;root@victus-16-d0xxx: /tmp/labrabota4/example-aclroot@victus-16-d0xxx:/tmp/labrabota4/example-acl# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C /tmp/labrabota4[1P/example-acl/[A]0;root@victus-16-d0xxx: /tmp/labrabota4/example-aclroot@victus-16-d0xxx:/tmp/labrabota4/example-acl# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C /tmp/labrabota4/[1Pexample-acl/[A]0;root@victus-16-d0xxx: /tmp/labrabota4/example-aclroot@victus-16-d0xxx:/tmp/labrabota4/example-acl# [C[C[C[C[C[C[C[C[C[C[C[C[C[C /tmp/labrabota4/e[1Pxample-acl/[A]0;root@victus-16-d0xxx: /tmp/labrabota4/example-aclroot@victus-16-d0xxx:/tmp/labrabota4/example-acl# [C[C[C[C[C[C[C[C[C[C[C[C[C /tmp/labrabota4/ex[1Pample-acl/[A]0;root@victus-16-d0xxx: /tmp/labrabota4/example-aclroot@victus-16-d0xxx:/tmp/labrabota4/example-acl# [C[C[C[C[C[C[C[C[C[C[C[C /tmp/labrabota4/exa[1Pmple-acl/[A]0;root@victus-16-d0xxx: /tmp/labrabota4/example-aclroot@victus-16-d0xxx:/tmp/labrabota4/example-acl# [C[C[C[C[C[C[C[C[C[C[C/tmp/labrabota4/exam[1Pple-acl/[A]0;root@victus-16-d0xxx: /tmp/labrabota4/example-aclroot@victus-16-d0xxx:/tmp/labrabota4/example-acl# [C[C[C[C[C[C[C[C[C[C /tmp/labrabota4/examp[1Ple-acl/[A]0;root@victus-16-d0xxx: /tmp/labrabota4/example-aclroot@victus-16-d0xxx:/tmp/labrabota4/example-acl# [C[C[C[C[C[C[C[C[C /tmp/labrabota4/exampl[1Pe-acl/[A]0;root@victus-16-d0xxx: /tmp/labrabota4/example-aclroot@victus-16-d0xxx:/tmp/labrabota4/example-acl# [C[C[C[C[C[C[C[C/tmp/labrabota4/example[1P-acl/[A]0;root@victus-16-d0xxx: /tmp/labrabota4/example-aclroot@victus-16-d0xxx:/tmp/labrabota4/example-acl# [C[C[C[C[C[C[C /tmp/labrabota4/example-[1Pacl/[A]0;root@victus-16-d0xxx: /tmp/labrabota4/example-aclroot@victus-16-d0xxx:/tmp/labrabota4/example-acl# [C[C[C[C[C[C /tmp/labrabota4/example-a[1Pcl/[A]0;root@victus-16-d0xxx: /tmp/labrabota4/example-aclroot@victus-16-d0xxx:/tmp/labrabota4/example-acl# [C[C[C[C[C /tmp/labrabota4/example-ac[1Pl/[A]0;root@victus-16-d0xxx: /tmp/labrabota4/example-aclroot@victus-16-d0xxx:/tmp/labrabota4/example-acl# [C[C[C[C /tmp/labrabota4/example-acl[1P/[A]0;root@victus-16-d0xxx: /tmp/labrabota4/example-aclroot@victus-16-d0xxx:/tmp/labrabota4/example-acl# [C[C[C /tmp/labrabota4/example-acl/[K[A]0;root@victus-16-d0xxx: /tmp/labrabota4/example-aclroot@victus-16-d0xxx:/tmp/labrabota4/example-acl# [C[C /tmp/labrabota4/example-acl/ [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P /tmp/labrabota4/example-acl/
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cg /tmp/labrabota4/example-acl/ [A]0;root@victus-16-d0xxx: /tmp/labrabota4/example-aclroot@victus-16-d0xxx:/tmp/labrabota4/example-acl# [Ce /tmp/labrabota4/example-acl/[A]0;root@victus-16-d0xxx: /tmp/labrabota4/example-aclroot@victus-16-d0xxx:/tmp/labrabota4/example-acl# [C[Ct /tmp/labrabota4/example-acl/[A]0;root@victus-16-d0xxx: /tmp/labrabota4/example-aclroot@victus-16-d0xxx:/tmp/labrabota4/example-acl# [C[C[Cc /tmp/labrabota4/example-acl/[A]0;root@victus-16-d0xxx: /tmp/labrabota4/example-aclroot@victus-16-d0xxx:/tmp/labrabota4/example-acl# [C[C[C[Ca /tmp/labrabota4/example-acl/[A]0;root@victus-16-d0xxx: /tmp/labrabota4/example-aclroot@victus-16-d0xxx:/tmp/labrabota4/example-acl# [C[C[C[C[Cl /tmp/labrabota4/example-acl/[A]0;root@victus-16-d0xxx: /tmp/labrabota4/example-aclroot@victus-16-d0xxx:/tmp/labrabota4/example-acl# [C[C[C[C[C[C /tmp/labrabota4/example-a[1Pcl/[A]0;root@victus-16-d0xxx: /tmp/labrabota4/example-aclroot@victus-16-d0xxx:/tmp/labrabota4/example-acl# [C[C[C[C[C /tmp/labrabota4/example-ac[1Pl/[A]0;root@victus-16-d0xxx: /tmp/labrabota4/example-aclroot@victus-16-d0xxx:/tmp/labrabota4/example-acl# [C[C[C[C /tmp/labrabota4/example-acl[1P/[A]0;root@victus-16-d0xxx: /tmp/labrabota4/example-aclroot@victus-16-d0xxx:/tmp/labrabota4/example-acl# [C[C[Cf /tmp/labrabota4/example-acl/[A]0;root@victus-16-d0xxx: /tmp/labrabota4/example-aclroot@victus-16-d0xxx:/tmp/labrabota4/example-acl# [C[C[C[Ca /tmp/labrabota4/example-acl/[A]0;root@victus-16-d0xxx: /tmp/labrabota4/example-aclroot@victus-16-d0xxx:/tmp/labrabota4/example-acl# [C[C[C[C[Cc /tmp/labrabota4/example-acl/[A]0;root@victus-16-d0xxx: /tmp/labrabota4/example-aclroot@victus-16-d0xxx:/tmp/labrabota4/example-acl# [C[C[C[C[C[Cl /tmp/labrabota4/example-acl/[A]0;root@victus-16-d0xxx: /tmp/labrabota4/example-aclroot@victus-16-d0xxx:/tmp/labrabota4/example-acl# [C[C[C[C[C[C[C
+
+[?2004lgetfacl: Удаление начальных '/' из абсолютных путей
+# file: tmp/labrabota4/example-acl/
+# owner: root
+# group: root
+user::rwx
+group::r-x
+group:visitors:rwx
+mask::rwx
+other::r-x
+
+[?2004h]0;root@victus-16-d0xxx: /tmp/labrabota4/example-aclroot@victus-16-d0xxx:/tmp/labrabota4/example-acl# su student
+[?2004l[?2004hstudent@victus-16-d0xxx:/tmp/labrabota4/example-acl$ newgrp visitors
+[?2004l[?2004hstudent@victus-16-d0xxx:/tmp/labrabota4/example-acl$ touch /tmp/labrabota4/example-acl/[K[K[K[K[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[Klette r.txt > /tmp/labrabota4/ez[Kxample-acl/file5.txt
+[?2004l[?2004hstudent@victus-16-d0xxx:/tmp/labrabota4/example-acl$ ls -li file5.tt[K[Ktxt
+[?2004l9568277 -rw-rw-r-- 1 student visitors 0 кра  8 14:07 file5.txt
+[?2004hstudent@victus-16-d0xxx:/tmp/labrabota4/example-acl$ exit
+[?2004lexit
+[?2004hstudent@victus-16-d0xxx:/tmp/labrabota4/example-acl$ getfacl file[1-5].txt
+[?2004l# file: file1.txt
+# owner: root
+# group: root
+user::rw-
+user:student:rw-
+group::r--
+mask::rw-
+other::r--
+
+# file: file2.txt
+# owner: root
+# group: root
+user::rw-
+user:student:rw-
+group::r--
+mask::rw-
+other::r--
+
+# file: file5.txt
+# owner: student
+# group: visitors
+user::rw-
+group::rw-
+other::r--
+
+[?2004hstudent@victus-16-d0xxx:/tmp/labrabota4/example-acl$ [Kstudent@victus-16-d0xxx:/tmp/labrabota4/example-acl$ [Kstudent@victus-16-d0xxx:/tmp/labrabota4/example-acl$ [Kstudent@victus-16-d0xxx:/tmp/labrabota4/example-acl$ [Kstudent@victus-16-d0xxx:/tmp/labrabota4/example-acl$ [Kstudent@victus-16-d0xxx:/tmp/labrabota4/example-acl$ [Kstudent@victus-16-d0xxx:/tmp/labrabota4/example-acl$ [Kstudent@victus-16-d0xxx:/tmp/labrabota4/example-acl$ [Kstudent@victus-16-d0xxx:/tmp/labrabota4/example-acl$ [Kstudent@victus-16-d0xxx:/tmp/labrabota4/example-acl$ [Kstudent@victus-16-d0xxx:/tmp/labrabota4/example-acl$ [Kstudent@victus-16-d0xxx:/tmp/labrabota4/example-acl$ rm -rf /tmp/labrabota4/
+[?2004lrm: невозможно удалить '/tmp/labrabota4/file4.txt': Отказано в доступе
+rm: невозможно удалить '/tmp/labrabota4/file7.txt': Отказано в доступе
+rm: невозможно удалить '/tmp/labrabota4/file3.txt': Отказано в доступе
+rm: невозможно удалить '/tmp/labrabota4/example-acl': Отказано в доступе
+rm: невозможно удалить '/tmp/labrabota4/file6.txt': Отказано в доступе
+rm: невозможно удалить '/tmp/labrabota4/file10.txt': Отказано в доступе
+rm: невозможно удалить '/tmp/labrabota4/getmask.txt': Отказано в доступе
+rm: невозможно удалить '/tmp/labrabota4/file9.txt': Отказано в доступе
+rm: невозможно удалить '/tmp/labrabota4/file2.txt': Отказано в доступе
+rm: невозможно удалить '/tmp/labrabota4/file11.txt': Отказано в доступе
+rm: невозможно удалить '/tmp/labrabota4/file8.txt': Отказано в доступе
+rm: невозможно удалить '/tmp/labrabota4/file5.txt': Отказано в доступе
+rm: невозможно удалить '/tmp/labrabota4/letter.txt': Отказано в доступе
+rm: невозможно удалить '/tmp/labrabota4/somedir': Отказано в доступе
+rm: невозможно удалить '/tmp/labrabota4/file1.txt': Отказано в доступе
+[?2004hstudent@victus-16-d0xxx:/tmp/labrabota4/example-acl$ exit
+[?2004lexit
+[?2004h]0;root@victus-16-d0xxx: /tmp/labrabota4/example-aclroot@victus-16-d0xxx:/tmp/labrabota4/example-acl# su studentgetfacl /tmp/labrabota4/example-acl/[A]0;root@victus-16-d0xxx: /tmp/labrabota4/example-aclroot@victus-16-d0xxx:/tmp/labrabota4/example-acl# setfacl -m g:visitors:rwx /tmp/labrabota4/example-acl/[A]0;root@victus-16-d0xxx: /tmp/labrabota4/example-aclroot@victus-16-d0xxx:/tmp/labrabota4/example-acl# getfacl file1.txt file2.txt file3.txt[K[A]0;root@victus-16-d0xxx: /tmp/labrabota4/example-aclroot@victus-16-d0xxx:/tmp/labrabota4/example-acl# setfacl -m g:visitors:rwx /tmp/labrabota4/example-acl/[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Krm -rf /TM[K[Ktmp/labrabota4/
+[?2004l[?2004h]0;root@victus-16-d0xxx: /tmp/labrabota4/example-aclroot@victus-16-d0xxx:/tmp/labrabota4/example-acl# exit
+[?2004lexit
+[?2004h]0;matvet@victus-16-d0xxx: ~[01;32mmatvet@victus-16-d0xxx[00m:[01;34m~[00m$ exit
+[?2004lexit
+
+Script done on 2025-04-08 14:10:36+03:00 [COMMAND_EXIT_CODE="0"]
