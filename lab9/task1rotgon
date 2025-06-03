@@ -1,0 +1,235 @@
+Script started on 2025-06-03 06:35:32+00:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+[?2004h]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ mkdir ec[Kxamples
+[?2004l[?2004h]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ ls -la > examples/log.txt
+[?2004l[?2004h]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ awk '/bash/ {print}' examples/*
+[?2004l-rw-------  1 user user  6070 Jun  2 22:01 .bash_history
+-rw-r--r--  1 user user   220 Mar 31  2024 .bash_logout
+-rw-r--r--  1 user user  3771 Mar 31  2024 .bashrc
+[?2004h]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ awk '/QUIT|SETDATE/' /user/[K[K[Kr/include/protocols/*
+[?2004l#define	TSP_QUIT		13	/* reject candidature if master is up */
+#define	TSP_SETDATE		22	/* New from date command */
+#define	TSP_SETDATEREQ		23	/* New remote for above */
+  "SLAVEUP", "ELECTION", "ACCEPT", "REFUSE", "CONFLICT", "RESOLVE", "QUIT",
+  "TEST", "SETDATE", "SETDATEREQ", "LOOP" };
+[?2004h]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ echo "[7mThis is a test.[27m
+[7mThis is the second test.[27m
+[7mThis is the third test.[27m
+[7mThis is the fourth test.[27m
+[A[A[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CThis is a test.
+This is the second test.
+This is the third test.
+This is the fourth test.
+[A[A[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cawk '/QUIT|SETDATE/' /usr/include/protocols/*
+[K
+[K
+[K
+[K[A[A[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[24Pecho "This is a test.
+This is the second test.
+This is the third test.
+This is the fourth test.
+" > examples/myfile.txt
+[?2004l[?2004h]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ cat examples/myfile.txt 
+[?2004lThis is a test.
+This is the second test.
+This is the third test.
+This is the fourth test.
+
+[?2004h]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ awk '{print $1}][K' ec[Kxamples/myfile.txt 
+[?2004lThis
+This
+This
+This
+
+[?2004h]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ awk '{print $1}' examples/myfile.txt [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[13Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[13@awk '{print $1}'[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[1@3
+[?2004la
+the
+the
+the
+
+[?2004h]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ [K]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ [K]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ [K]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ [K]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ [K]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ [K]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ [K]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ [K]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ [K]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ awk '/foo/' {print toupper($0); }'[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[?2004lThis line contains bar
+t This line contains foo
+THIS LINE CONTAINS FOO
+^C
+[?2004h]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ echo "[7mАсташко Иван ПИ 1 6[27m
+[7mБузун Евгений КБ 1 9[27m
+[7mКравченя Леонид ПМ 1 4[27m
+[7mКошкин Владимир ИН 1 7[27m
+[7mЛипин Федор ПИ 2 4[27m
+[7mПенов Николай ПМ 1 5[27m
+[7mЯшин Петр КБ 4 8[27m
+[A[A[A[A[A[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CАсташко Иван ПИ 1 6
+Бузун Евгений КБ 1 9
+Кравченя Леонид ПМ 1 4
+Кошкин Владимир ИН 1 7
+Липин Федор ПИ 2 4
+Пенов Николай ПМ 1 5
+Яшин Петр КБ 4 8
+" > examples/list_students.txt
+[?2004l[?2004h]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ awk 'print[K[K[K[K[K{print$1,$2,$5[C $1,$2,$5[C[C[C[C[C[C[C[C}' examples/list_students.txt 
+[?2004lАсташко Иван 6
+Бузун Евгений 9
+Кравченя Леонид 4
+Кошкин Владимир 7
+Липин Федор 4
+Пенов Николай 5
+Яшин Петр 8
+  
+[?2004h]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ awk '{print $1,$2,$5}' examples/list_students.txt [C[1P[1P[1P[1P[1P[1P[1P[1@0[1@/[1@8[1@/[1@ 
+[?2004lЯшин Петр КБ 4 8
+[?2004h]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ awk '/8/ {print $0}' examples/list_students.txt [1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1@([1@$[1@5[1@=[1@=[1@4[1@)
+[?2004lКравченя Леонид ПМ 1 4
+Липин Федор ПИ 2 4
+[?2004h]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ awk '($5==4)' examples/list_students.txt [1P[1@4[C[C[C[1P[1@1[1@$[1@$[1@([C[C[1@$[1@3[1@=[1@=[1@"[1@"[1@)[3@[7mКБ [27mКБ [C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[?2004lАсташко Иван ПИ 1 6
+Бузун Евгений КБ 1 9
+Кравченя Леонид ПМ 1 4
+Кошкин Владимир ИН 1 7
+Липин Федор ПИ 2 4
+Пенов Николай ПМ 1 5
+Яшин Петр КБ 4 8
+
+[?2004h]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ awk '($3=="КБ")$$($4==1)' examples/list_students.txt [1P[1P[1@7[1@7[1P[1P[1@&[1@&
+[?2004lБузун Евгений КБ 1 9
+[?2004h]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ awl[Kk '{print $2, length($2)}' examples/list_students.txt 
+[?2004lИван 8
+Евгений 14
+Леонид 12
+Владимир 16
+Федор 10
+Николай 14
+Петр 8
+ 0
+[?2004h]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ awk '{print $2, length($2)}' examples/list_students.txt [1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1@([1@l[1@e[1@n[1@g[1@t[1@h[1@([1@$[1@1[1@)[1@>[1@5[1@ 
+[?2004lawk: line 1: syntax error at or near {
+[?2004h]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ awk '(length($1)>5 {print}' examples/list_students.txt [1@)
+[?2004lАсташко Иван ПИ 1 6
+Бузун Евгений КБ 1 9
+Кравченя Леонид ПМ 1 4
+Кошкин Владимир ИН 1 7
+Липин Федор ПИ 2 4
+Пенов Николай ПМ 1 5
+Яшин Петр КБ 4 8
+[?2004h]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ awk '(length($1)>5) {print}' examples/list_students.txt [C[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[C[C[C[C[C[C[1@ [1@N[1@R[1@,[1@$[1@0
+[?2004l1 Асташко Иван ПИ 1 6
+2 Бузун Евгений КБ 1 9
+3 Кравченя Леонид ПМ 1 4
+4 Кошкин Владимир ИН 1 7
+5 Липин Федор ПИ 2 4
+6 Пенов Николай ПМ 1 5
+7 Яшин Петр КБ 4 8
+8 
+[?2004h]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ awk '{print NR,$0}' examples/list_students.txt [C[1P[1P[1P[1P[1P[1P[1@ [1@t[1@o[1@u[1@p[1@p[1@e[1@r[1@([1@$[1@@[1P[1@2[1@)
+[?2004lИван
+Евгений
+Леонид
+Владимир
+Федор
+Николай
+Петр
+
+[?2004h]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ awk '{print toupper($2)}' examples/list_students.txt [C[C[1@{[1@s[1@u[1@m[1@ [1@+[1@=[1@ [1@$[1@5}{print toupper($2)}' examples/list_students.txt  [A]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C {print toupper($2)}' examples/list_students.txt [A]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CE{print toupper($2)}' examples/list_students.txt [A]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CN{print toupper($2)}' examples/list_students.txt [A]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CD{print toupper($2)}' examples/list_students.t[1@x[A]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C {print toupper($2)}' examples/list_students.[1@t[A]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C}' examples/list_students.t[1P[A]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C}' examples/list_students.tx[1P[A]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C}' examples/list_students.txt[1P [A]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C}' examples/list_students.txt [K[A]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C}' examples/list_students.txt  [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[1P[1P[1P[1P[1@([1@"[1@S[1@U[1@M=}' examples/list_students.txt  [A]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C"}' examples/list_students.txt [A]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C,}' examples/list_students.txt [A]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cs}' examples/list_students.txt [A]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cu}' examples/list_students.t[1@x[A]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cm}' examples/list_students.[1@t[A]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C)}' examples/list_students[1@.[A]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+[?2004lSUM= 43
+[?2004h]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ awk '{sum += $5} END {print ("SUM=",sum)}' examples/list_students.txt [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C' examples/list_students.[1P[A]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C' examples/list_students.t[1P[A]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C' examples/list_students.tx[1P[A]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C' examples/list_students.txt[1P [A]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C' examples/list_students.txt [K[A]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C' examples/list_students.txt  [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1@([1@$[1@1[1@ [1@~[1@ [1@/[9@[7mКравченя [27mКравченя [1@/[1P[1@)[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[?2004lКравченя Леонид ПМ 1 4
+[?2004h]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ awk '($1 ~ /Кравченя/)' examples/list_students.txt [C[1P[1P[1P[1P[1P[1P[1P[1P[7@[7m Липина[27m Липина[1P[C[1@{[1P[1@[[C[C[1@][2@[7mли[27mли[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[?2004l[?2004h]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ awk '($1 ~ /[Лл]ипина/)' examples/list_students.txt [1P
+[?2004lЛипин Федор ПИ 2 4
+[?2004h]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ awk '($1 ~ /[Лл]ипин/)' examples/list_students.txt [1P[1@"[1P[1P[1P[1@"[1P[1P[1P[1@![1@=[1@ 
+[?2004lАсташко Иван ПИ 1 6
+Бузун Евгений КБ 1 9
+Кравченя Леонид ПМ 1 4
+Кошкин Владимир ИН 1 7
+Пенов Николай ПМ 1 5
+Яшин Петр КБ 4 8
+
+[?2004h]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ cd examples/
+[?2004l[?2004h]0;user@student: ~/examples[01;32muser@student[00m:[01;34m~/examples[00m$ ECHO"[K[K[K[K[Kecho"[7mname,color,amount[27m
+[7mapple,red,4[27m
+[7mbanana,yellow,6[27m
+[7mstrawberry,red,3[27m
+[7mgrape,purple,10[27m
+[7mapple,green,8[27m
+[7mplum,purple,2[27m
+[7mkiwi,brown,4[27m
+[7mpotato,brown,9[27m
+[7mpineapple,yellow,5[27m
+[A[A[A[A[A[A[A[A[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cname,color,amount
+apple,red,4
+banana,yellow,6
+strawberry,red,3
+grape,purple,10
+apple,green,8
+plum,purple,2
+kiwi,brown,4
+potato,brown,9
+pineapple,yellow,5
+>[K" > colors.cvs
+[?2004lechoname,color,amount
+apple,red,4
+banana,yellow,6
+strawberry,red,3
+grape,purple,10
+apple,green,8
+plum,purple,2
+kiwi,brown,4
+potato,brown,9
+pineapple,yellow,5
+: command not found
+[?2004h]0;user@student: ~/examples[01;32muser@student[00m:[01;34m~/examples[00m$ echo"name,color,amount
+apple,red,4
+banana,yellow,6
+strawberry,red,3
+grape,purple,10
+apple,green,8
+plum,purple,2
+kiwi,brown,4
+potato,brown,9
+pineapple,yellow,5
+" > colors.cvsurs.cvs
+[?2004lechoname,color,amount
+apple,red,4
+banana,yellow,6
+strawberry,red,3
+grape,purple,10
+apple,green,8
+plum,purple,2
+kiwi,brown,4
+potato,brown,9
+pineapple,yellow,5
+: command not found
+[?2004h]0;user@student: ~/examples[01;32muser@student[00m:[01;34m~/examples[00m$ echo"name,color,amount
+apple,red,4
+banana,yellow,6
+strawberry,red,3
+grape,purple,10
+apple,green,8
+plum,purple,2
+kiwi,brown,4
+potato,brown,9
+pineapple,yellow,5
+" > colours.cvs[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cv"name,color,amount[1P"name,color,amount "name,color,amount
+
+
+
+
+
+
+
+
+
+
+[?2004l[?2004h]0;user@student: ~/examples[01;32muser@student[00m:[01;34m~/examples[00m$ awk -F',''[K ' #[K$3>5 {print $1$2$3,$3,$2,$3[C[C[C[C[C}' colours.cvs > output .txt
+[?2004l[?2004h]0;user@student: ~/examples[01;32muser@student[00m:[01;34m~/examples[00m$ cat output.txt 
+[?2004lname color amount
+banana yellow 6
+grape purple 10
+apple green 8
+potato brown 9
+[?2004h]0;user@student: ~/examples[01;32muser@student[00m:[01;34m~/examples[00m$ exit
+[?2004lexit
+
+Script done on 2025-06-03 06:55:22+00:00 [COMMAND_EXIT_CODE="0"]
