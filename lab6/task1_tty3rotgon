@@ -1,0 +1,144 @@
+Script started on 2025-05-14 15:22:20+00:00 [TERM="linux" TTY="/dev/tty3" COLUMNS="160" LINES="50"]
+To run a command as administrator (user "root"), use "sudo <command>".
+See "man sudo_root" for details.
+
+[?2004huser@student:~$ tty
+[?2004l/dev/pts/1
+[?2004huser@student:~$ (while true; do echo A >> log; sleep 1; done)
+[?2004l
+ex  (hile     dine   one
+^Z
+[1]+  Stopped                 ( while true; do
+    echo A >> log; sleep 1;
+done )
+[?2004huser@student:~$ bg
+[?2004l[1]+ ( while true; do
+    echo A >> log; sleep 1;
+done ) &
+[?2004huser@student:~$ bg(while true; do echo A >> log; sleep 1; done)[1P[1@B[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C %[K&
+[?2004l[2] 5074
+[?2004huser@student:~$ jobs
+[?2004l[1]-  Running                 ( while true; do
+    echo A >> log; sleep 1;
+done ) &
+[2]+  Running                 ( while true; do
+    echo B >> log; sleep 1;
+done ) &
+[?2004huser@student:~$ renice 105074[K[K[K[K 40[K[K5074
+[?2004l5074 (process ID) old priority 0, new priority 10
+[?2004huser@student:~$ kill%2
+[?2004lkill%2: command not found
+[?2004huser@student:~$ kill%2 %2
+[?2004l[?2004huser@student:~$ jobs
+[?2004l[1]-  Running                 ( while true; do
+    echo A >> log; sleep 1;
+done ) &
+[2]+  Terminated              ( while true; do
+    echo B >> log; sleep 1;
+done )
+[?2004huser@student:~$ tail -f log
+[?2004lA
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+^Z
+[2]+  Stopped                 tail -f log
+[?2004huser@student:~$ kill %1
+[?2004l[?2004huser@student:~$ jobs
+[?2004l[1]-  Terminated              ( while true; do
+    echo A >> log; sleep 1;
+done )
+[2]+  Stopped                 tail -f log
+[?2004huser@student:~$ jobs
+[?2004l[2]+  Stopped                 tail -f log
+[?2004huser@student:~$ kill %2
+[?2004l
+[2]+  Stopped                 tail -f log
+[?2004huser@student:~$ jobs
+[?2004l[2]+  Terminated              tail -f log
+[?2004huser@student:~$ jobs
+[?2004l[?2004huser@student:~$ p[Kps -eo user,pid,%cpu<%[K[Km[K,%mem,vsz, [Krss,tty,stat,start.time[K[K[K[K[K,time,command | head -n 4
+[?2004lUSER         PID %CPU %MEM    VSZ   RSS TT       STAT  STARTED     TIME COMMAND
+root           1  0.7  0.3  22960 13876 ?        Ss   15:05:00 00:00:12 /sbin/init splash
+root           2  0.0  0.0      0     0 ?        S    15:05:00 00:00:00 [kthreadd]
+root           3  0.0  0.0      0     0 ?        S    15:05:00 00:00:00 [pool_workqueue_release]
+[?2004huser@student:~$ nice -n 18 tar -czf arhive.tar.gz /home/user/
+[?2004ltar: Removing leading `/' from member names
+tar: /home/user/.cache/ibus/dbus-JHEwcCbP: socket ignored
+tar: /home/user: file changed as we read it
+[?2004huser@student:~$ nice -n 18 tar -czf arhive.tar.gz /home/user/[1P/[1P/[1P/[1P/s/t/u/d/e/n/t/
+[?2004ltar: Removing leading `/' from member names
+tar: /home/student: Cannot stat: No such file or directory
+tar: Exiting with failure status due to previous errors
+[?2004huser@student:~$ nice -n 18 tar -czf arhive.tar.gz /home/student/[C[K[K[K[K[K[K[K[Kuser/
+[?2004ltar: Removing leading `/' from member names
+tar: /home/user/.cache/ibus/dbus-JHEwcCbP: socket ignored
+tar: /home/user/arhive.tar.gz: file changed as we read it
+[?2004huser@student:~$ nice -n 18 tar -czf arhive.tar.gz /home/user/student/[3Puser/[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cps -eo user,pid,%cpu,%mem,vsz,rss,tty,stat,start,time,command | head -n 4[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cjobs[Kkill %2[3Pjobskill %1[C[K[K[K[K[K[K[Kjobskill %2[K[K[K[K[K[K[Kjobs[Ktail -f log[7Pjobskill %2[1P%2 %2[3Pjobstail -f log[Kjobs[Kjobsps -eo user,pid,%cpu,%mem,vsz,rss,tty,stat,start,time,command | head -n 4[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[28Pnice -n 18 tar -czf arhive.tar.gz /home/user/student/[3Puser/[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Knice -n 18 tar -czf arhive.tar.gz /home/user/[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kpkill -u user[K[K[K[K[K[K[K[K[K[K[K[K[Kpkill -u user2
+[?2004lpkill: killing pid 6626 failed: Operation not permitted
+pkill: killing pid 6631 failed: Operation not permitted
+pkill: killing pid 6645 failed: Operation not permitted
+pkill: killing pid 6647 failed: Operation not permitted
+pkill: killing pid 6648 failed: Operation not permitted
+pkill: killing pid 6652 failed: Operation not permitted
+pkill: killing pid 6655 failed: Operation not permitted
+pkill: killing pid 6657 failed: Operation not permitted
+pkill: killing pid 6675 failed: Operation not permitted
+pkill: killing pid 6707 failed: Operation not permitted
+pkill: killing pid 6711 failed: Operation not permitted
+pkill: killing pid 6843 failed: Operation not permitted
+pkill: killing pid 6848 failed: Operation not permitted
+pkill: killing pid 6874 failed: Operation not permitted
+[?2004huser@student:~$ pkill -u user2
+[?2004lpkill: killing pid 6626 failed: Operation not permitted
+pkill: killing pid 6631 failed: Operation not permitted
+pkill: killing pid 6645 failed: Operation not permitted
+pkill: killing pid 6647 failed: Operation not permitted
+pkill: killing pid 6648 failed: Operation not permitted
+pkill: killing pid 6652 failed: Operation not permitted
+pkill: killing pid 6655 failed: Operation not permitted
+pkill: killing pid 6657 failed: Operation not permitted
+pkill: killing pid 6675 failed: Operation not permitted
+pkill: killing pid 6707 failed: Operation not permitted
+pkill: killing pid 6711 failed: Operation not permitted
+pkill: killing pid 6843 failed: Operation not permitted
+pkill: killing pid 6848 failed: Operation not permitted
+pkill: killing pid 6901 failed: Operation not permitted
+[?2004huser@student:~$ pkill -u user2
+[?2004lpkill: killing pid 6626 failed: Operation not permitted
+pkill: killing pid 6631 failed: Operation not permitted
+pkill: killing pid 6645 failed: Operation not permitted
+pkill: killing pid 6647 failed: Operation not permitted
+pkill: killing pid 6652 failed: Operation not permitted
+pkill: killing pid 6655 failed: Operation not permitted
+pkill: killing pid 6657 failed: Operation not permitted
+pkill: killing pid 6675 failed: Operation not permitted
+pkill: killing pid 6707 failed: Operation not permitted
+pkill: killing pid 6711 failed: Operation not permitted
+pkill: killing pid 6843 failed: Operation not permitted
+[?2004huser@student:~$ pkill -u user2[C[K
+[?2004l
+Script done on 2025-05-14 15:44:26+00:00 [COMMAND_EXIT_CODE="0"]
