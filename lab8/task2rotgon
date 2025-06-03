@@ -1,0 +1,27 @@
+Script started on 2025-06-02 19:44:44+00:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="32"]
+[?2004h]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ touch report_{1..3} request_{1..3}
+[?2004l[?2004h]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ ls
+[?2004l[0m[01;34mDesktop[0m    [01;34mMusic[0m     report_1  request_1  [01;34msnap[0m         [01;34mTemplates[0m       [01;34mVideos[0m
+[01;34mDocuments[0m  [01;34mPictures[0m  report_2  request_2  task1rotgon  timelog1rotgon
+[01;34mDownloads[0m  [01;34mPublic[0m    report_3  request_3  task2rotgon  timelog2rotgon
+[?2004h]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ mkdir report
+[?2004l[?2004h]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ mv report_{1//3[K[K[K..3} report/
+[?2004l[?2004h]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ ls report
+[?2004lreport_1  report_2  report_3
+[?2004h]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ ls
+[?2004l[0m[01;34mDesktop[0m    [01;34mMusic[0m     [01;34mreport[0m     request_3    task2rotgon     timelog2rotgon
+[01;34mDocuments[0m  [01;34mPictures[0m  request_1  [01;34msnap[0m         [01;34mTemplates[0m       [01;34mVideos[0m
+[01;34mDownloads[0m  [01;34mPublic[0m    request_2  task1rotgon  timelog1rotgon
+[?2004h]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ rm request_{1..3}
+[?2004l[?2004h]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ k[Kls
+[?2004l[0m[01;34mDesktop[0m    [01;34mMusic[0m     [01;34mreport[0m       task2rotgon     timelog2rotgon
+[01;34mDocuments[0m  [01;34mPictures[0m  [01;34msnap[0m         [01;34mTemplates[0m       [01;34mVideos[0m
+[01;34mDownloads[0m  [01;34mPublic[0m    task1rotgon  timelog1rotgon
+[?2004h]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ echo "$(ls report)"
+[?2004lreport_1
+report_2
+report_3
+[?2004h]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ exit
+[?2004lexit
+
+Script done on 2025-06-02 19:47:50+00:00 [COMMAND_EXIT_CODE="0"]
