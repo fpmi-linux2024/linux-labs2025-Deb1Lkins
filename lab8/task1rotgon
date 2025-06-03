@@ -1,0 +1,99 @@
+Script started on 2025-06-02 19:35:17+00:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+[?2004h]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ temp=old
+[?2004l[?2004h]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ echo $temp
+[?2004lold
+[?2004h]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ temp=new
+[?2004l[?2004h]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ temp=newecho $temp
+[?2004lnew
+[?2004h]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ temp="temp and new"
+[?2004l[?2004h]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ temp="temp and new"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[9Pecho $temp
+[?2004ltemp and new
+[?2004h]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ i[Kunset temp
+[?2004l[?2004h]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ unset tempecho $temptemp="temp and new"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[9Pecho $temp
+[?2004l
+[?2004h]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ vect=(x y z)
+[?2004l[?2004h]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ echo "${vect[@])"
+[?2004l[?2004h> echo "${vect[@])"[K[K[K[K[K[K[K[K[K
+[?2004l[?2004h> 
+[?2004l[?2004h> 
+[?2004l[?2004h> exit
+[?2004l[?2004h> 
+[?2004l[?2004h> ^C[?2004l[?2004h[?2004l
+[?2004h]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ echo "${vect[@])"
+
+
+
+exit
+[K[A[C[C[C[C[K[K[K[K[K[A[K[A[K[A[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K}[K]}'[K"[5Pvect=(x y z)
+[?2004l[?2004h]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ vect=(x y z)echo "${vect[@]}"
+[?2004lx y z
+[?2004h]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ vect[2]=w
+[?2004l[?2004h]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ vect[2]=wecho "${vect[@]}"
+[?2004lx y w
+[?2004h]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ unset cet[K[K[Kvect
+[?2004l[?2004h]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ unset vectecho "${vect[@]}"
+[?2004l
+[?2004h]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ alias lr='ls -alFtr'
+[?2004l[?2004h]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ lr
+[?2004ltotal 100
+-rw-r--r--  1 user user   807 Mar 31  2024 .profile
+-rw-r--r--  1 user user  3771 Mar 31  2024 .bashrc
+-rw-r--r--  1 user user   220 Mar 31  2024 .bash_logout
+drwx------  2 user user  4096 May 14 15:07 [0m[01;34m.ssh[0m/
+drwx------  4 user user  4096 May 14 15:07 [01;34m.local[0m/
+drwxr-xr-x  2 user user  4096 May 14 15:07 [01;34mVideos[0m/
+drwxr-xr-x  2 user user  4096 May 14 15:07 [01;34mTemplates[0m/
+drwxr-xr-x  2 user user  4096 May 14 15:07 [01;34mPublic[0m/
+drwxr-xr-x  2 user user  4096 May 14 15:07 [01;34mPictures[0m/
+drwxr-xr-x  2 user user  4096 May 14 15:07 [01;34mMusic[0m/
+drwxr-xr-x  2 user user  4096 May 14 15:07 [01;34mDownloads[0m/
+drwxr-xr-x  2 user user  4096 May 14 15:07 [01;34mDocuments[0m/
+drwxr-xr-x  2 user user  4096 May 14 15:07 [01;34mDesktop[0m/
+-rw-r--r--  1 user user     0 May 14 15:41 .sudo_as_admin_successful
+drwxr-xr-x  4 root root  4096 May 14 15:41 [01;34m..[0m/
+drwx------ 10 user user  4096 May 14 15:51 [01;34m.cache[0m/
+drwx------  5 user user  4096 Jun  2 15:53 [01;34msnap[0m/
+-rw-------  1 user user  4096 Jun  2 16:49 .students.txt.swn
+drwx------  2 user user  4096 Jun  2 16:50 [01;34m.gnupg[0m/
+drwx------ 13 user user  4096 Jun  2 16:59 [01;34m.config[0m/
+-rw-------  1 user user 12288 Jun  2 17:02 .students.txt.swo
+-rw-------  1 user user  2009 Jun  2 17:02 .viminfo
+-rw-------  1 user user  3984 Jun  2 17:02 .bash_history
+-rw-rw-r--  1 user user     0 Jun  2 19:35 task1rotgon
+drwxr-x--- 16 user user  4096 Jun  2 19:35 [01;34m.[0m/
+-rw-rw-r--  1 user user     0 Jun  2 19:35 timelog1rotgon
+[?2004h]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ [K]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ [K]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ [K]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ [K]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ [K]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ [K]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ [K]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ [K]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ cur_m_cal=$(cal)
+[?2004lCommand 'cal' not found, but can be installed with:
+sudo apt install ncal
+[?2004h]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ sudo apt install ncal
+[?2004l[sudo] password for user: 
+Reading package lists... 0%Reading package lists... 100%Reading package lists... Done
+Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 50%Building dependency tree... 50%Building dependency tree... Done
+Reading state information... 0% Reading state information... 0%Reading state information... Done
+The following NEW packages will be installed:
+  ncal
+0 upgraded, 1 newly installed, 0 to remove and 112 not upgraded.
+Need to get 21.0 kB of archives.
+After this operation, 59.4 kB of additional disk space will be used.
+[33m0% [Working][0m[33m0% [Connecting to by.archive.ubuntu.com][0m                                        Get:1 http://by.archive.ubuntu.com/ubuntu noble/universe amd64 ncal amd64 12.1.8 [21.0 kB]
+[33m                                        20% [1 ncal 5,351 B/21.0 kB 25%][0m[33m                                100% [Working][0m              Fetched 21.0 kB in 1s (20.3 kB/s)
+
+7[0;31r8[1ASelecting previously unselected package ncal.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 190120 files and directories currently installed.)
+Preparing to unpack .../archives/ncal_12.1.8_amd64.deb ...
+7[32;0f[42m[30mProgress: [  0%][49m[39m [..........................................................] 87[32;0f[42m[30mProgress: [ 20%][49m[39m [###########...............................................] 8Unpacking ncal (12.1.8) ...
+7[32;0f[42m[30mProgress: [ 40%][49m[39m [#######################...................................] 8Setting up ncal (12.1.8) ...
+7[32;0f[42m[30mProgress: [ 60%][49m[39m [##################################........................] 87[32;0f[42m[30mProgress: [ 80%][49m[39m [##############################################............] 8Processing triggers for man-db (2.12.0-4build2) ...
+
+7[0;32r8[1A[J[?2004h]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ sudo apt install ncal[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[5Pcur_m_cal=$(cal)
+[?2004l[?2004h]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ cut_time=$(date +%H:%M:%S)
+[?2004l[?2004h]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ notify-send "Time: $cut_time" cut[K[K[K"cut_m_cal"
+[?2004l[?2004h]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ notify-send "Time: $cut_time" "cut_m_cal"
+[?2004l[?2004h]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ notify-send "Time: $cut_time" "cut_m_cal"$cut_m_cal"
+[?2004l[?2004h]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ notify-send "Time: $cut_time" "$cut_m_cal"
+[?2004l[?2004h]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ notify-send "Time: $cut_time" "$cut_m_cal"[C[K[K[K[K[K[K[K[K[K[K[K[K
+[?2004l[?2004h]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ notify-send "Time: $cut_time" "$cut_m_cal"[C
+[?2004l[?2004h]0;user@student: ~[01;32muser@student[00m:[01;34m~[00m$ exit
+[?2004lexit
+
+Script done on 2025-06-02 19:44:27+00:00 [COMMAND_EXIT_CODE="0"]
