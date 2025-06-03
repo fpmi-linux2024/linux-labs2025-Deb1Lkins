@@ -37,4 +37,9 @@
 
 [Ссылка на отчет](https://disk.yandex.ru/d/woOhn92C-dFzsg)
 
+## Лабораторная работа № 9
+
+[Ссылка на отчет](https://disk.yandex.ru/d/PyD-MWDbOHxkgw)
+
+
 
