@@ -47,4 +47,12 @@
 
 ## Лабораторная работа № 11
 
+[Ссылка на отчет](https://disk.yandex.ru/d/KM5cK-2Lwi4Z_A)
+
+## Лабораторная работа № 12
+
 [Ссылка на отчет](https://disk.yandex.ru/d/f7P47c3tjffevA)
+
+
+
+
